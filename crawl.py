@@ -1,6 +1,9 @@
 from init import driveinit
 from apiclient import errors
+import requests
 # ...
+
+URL = "http://nexus.sdslabs.local/api/v1/files/"
 
 def print_files_in_folder(service, folder_id):
   """Print files belonging to a folder.
@@ -53,6 +56,14 @@ def print_files_in_folder(service, folder_id):
                   continue
                 for file in file_children['files']:
                   print('Found file: %s (%s, %s, %s)' % (file['name'], file['id'], file['size'], file['modifiedTime']))
+                  data = {
+                    'title': file['name'],
+                    'driveid': file['id'],
+                    'size': file['size'],
+                    'code': newids['name'],
+                    'filetype': newerids['name']
+                  }
+                  requests.post(url=URL, data=data)
                 print('\n')
 
               except errors.HttpError as error:
