@@ -13,7 +13,7 @@ for department in departments:
     data = {
         'title': department[1],
         'abbreviation': department[0],
-        'imageurl': str(department[0]).lower()+".svg"
+        'imageurl': str(department[0]).lower()+".png"
     }
     requests.post(url = URL_POST_DEPARTMENTS, data = data)
     url = URL_COURSES+str(department[0])+"/"

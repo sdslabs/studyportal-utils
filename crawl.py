@@ -19,11 +19,6 @@ def print_files_in_folder(service, folder_id):
         spaces='drive',
         fields='files(id)').execute()
 
-    #   for child in children.get('items', []):
-    #     print('File Id: %s' % child['id'])
-    #   page_token = children.get('nextPageToken')
-    #   if not page_token:
-    #     break
     for ids in department_children['files']:
       query="'" + ids['id'] + "' in parents"
 
@@ -77,32 +72,6 @@ def print_files_in_folder(service, folder_id):
 
   except errors.HttpError as error:
     print('An error occurred: %s' % error)
-  # page_token = None
-  # while True:
-  #     response = service.files().list(q="mimeType='application/vnd.google-apps.folder'",
-  #                                           spaces='drive',
-  #                                           fields='nextPageToken, files(id, name)',
-  #                                           pageToken=page_token).execute()
-  #     for file in response.get('files', []):
-  #       # Process change
-  #         query="'" + file.get('id') + "' in parents"
-  #         try:
-  #             files = service.files().list(
-  #               q=query,
-  #               spaces='drive',
-  #               fields='files(id,name,size,modifiedTime)').execute()
-  #             if files['files'] == []:
-  #                 continue
-  #             for file in files['files']:
-  #                 print('Found file: %s (%s)' % (file['name'], file['id']))
-
-  #         except errors.HttpError as error:
-  #             print('An error occurred: %s' % error)
-
-  #     page_token = response.get('nextPageToken', None)
-  #     if page_token is None:
-  #         break
-    
 
 if __name__ == '__main__':
     print_files_in_folder(driveinit(),'1Zd-uN6muFv8jvjUSM7faanEL0Zv6BTwZ')
