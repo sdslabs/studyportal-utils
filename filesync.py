@@ -5,6 +5,7 @@ from init import driveinit
 
 NEXUS_ROOT = "http://localhost:8005"
 
+
 def listChildFilesInDriveFolder(service, folderID):
     results = service.files().list(
         q="'" + folderID + "' in parents and mimeType != 'application/vnd.google-apps.folder' ",
@@ -12,8 +13,18 @@ def listChildFilesInDriveFolder(service, folderID):
     ).execute()
     return results.get('files', [])
 
+
 def listChildFilesInDB(course, filetype):
     return requests.get(f"{NEXUS_ROOT}/api/v1/files?course={course}&filetype={filetype}").json()
+
+
+def deleteExtraInDB(driveid):
+    return requests.delete("http://localhost:8005/api/v1/files",
+                           data={"driveid": driveid})
+
+
+def addExtraToDB(filedata):
+    return requests.post("http://localhost:8005/api/v1/files", data=filedata)
 
 
 def fileSync(service):
@@ -30,7 +41,7 @@ ______ _ _        _____                    _____      _ _   _       _         _
                         |___/                                                   
 
     ''')
-    print("Loading structure.json...", end = " ")
+    print("Loading structure.json...", end=" ")
     input_file = open('structure.json')
     print("Loaded!")
     departments = json.load(input_file)['study']
@@ -47,11 +58,12 @@ ______ _ _        _____                    _____      _ _   _       _         _
                     if filetype == 'id':
                         continue
                     if "_review" not in filetype:
-                        print("\nFileType: " + filetype )
+                        print("\nFileType: " + filetype)
                         drive_link = departments[department][course][filetype]
                         print("Drive_link: " + drive_link)
 
-                        filesInDrive = listChildFilesInDriveFolder(service, drive_link)
+                        filesInDrive = listChildFilesInDriveFolder(
+                            service, drive_link)
                         filesInDB = listChildFilesInDB(course, filetype)
                         idsInDrive = list(
                             map(lambda file: file['id'], filesInDrive))
@@ -59,28 +71,28 @@ ______ _ _        _____                    _____      _ _   _       _         _
                             map(lambda file: file['driveid'], filesInDB))
                         print(f"idsInDrive: {idsInDrive}")
                         print(f"idsInDB: {idsInDB}")
-                        # Improve efficiency
+
+                        # Improve efficiency a lil here
                         extrasInDrive = [
                             item for item in idsInDrive if item not in idsInDB]
                         extrasInDB = [
                             item for item in idsInDB if item not in idsInDrive]
                         print("Extras in drive: ", extrasInDrive)
-                            # for id in extrasInDrive:
-                            #     print("Adding " + id + " to db")
-                            #     print(course, type(course))
-                            #     requests.post("http://localhost:8005/api/v1/files", data={
-                            #         "title": "logo.jpg",  # TBD
-                            #         "driveid": id,
-                            #         "size": "99",  # To be fetched from drive
-                            #         "filetype": filetype,
-                            #         "finalized": True,
-                            #         "code": course,
-                            #     })
+                        for id in extrasInDrive:
+                            print("Adding " + id + " to db")
+                            filedata = {
+                                "title": "logo.jpg",  # TBD
+                                "driveid": id,
+                                "size": "99",  # TBD 
+                                "filetype": filetype,
+                                "finalized": True,
+                                "code": course,
+                            }
+                            addExtraToDB(filedata)
+                        
                         print("Extras in db: ", extrasInDB)
-                            # for id in extrasInDB:
-                            #     requests.delete("http://localhost:8005/api/v1/files", data={
-                            #         "driveid": id,
-                            #     })
+                        for driveid in extrasInDB:
+                            deleteExtraInDB(driveid)
 
 
 fileSync(driveinit())
