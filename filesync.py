@@ -24,12 +24,13 @@ def listChildFilesInDB(course, filetype):
 
 def deleteExtraInDB(driveid):
     print(f"deleting {driveid} from DB")
-    return requests.delete("http://localhost:8005/api/v1/files",
+    return requests.delete(f"{NEXUS_ROOT}/api/v1/files",
                            data={"driveid": driveid})
 
 
 def addExtraToDB(filedata):
-    return requests.post("http://localhost:8005/api/v1/files", data=filedata)
+    print(f"Adding {filedata['driveid']} to DB")
+    return requests.post(f"{NEXUS_ROOT}/api/v1/files", data=filedata)
 
 # FileSync module
 def fileSync(service):
@@ -82,7 +83,6 @@ ______ _ _          _____                          _             _      _   _   
                         
                         print("Extras in drive: ", extrasInDrive)
                         for id in extrasInDrive:
-                            print("Adding " + id + " to db")
                             filedata = {
                                 "title": "logo.jpg",  # TBD
                                 "driveid": id,
