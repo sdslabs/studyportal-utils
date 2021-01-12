@@ -13,7 +13,7 @@ NEXUS_ROOT = "http://localhost:8005"
 def listChildFilesInDriveFolder(service, folderID):
     results = service.files().list(
         q="'" + folderID + "' in parents and mimeType != 'application/vnd.google-apps.folder' ",
-        fields="nextPageToken, files(id, name, mimeType)",
+        fields="nextPageToken, files(id, name, size, mimeType)",
     ).execute()
     return results.get('files', [])
 
@@ -53,23 +53,25 @@ def courseSync(course, departments, department, service):
                     map(lambda file: file['id'], filesInDrive))
                 idsInDB = list(
                     map(lambda file: file['driveid'], filesInDB))
-
                 extrasInDrive = [
                     item for item in idsInDrive if item not in idsInDB]
+                extraFilesInDrive = [
+                    item for item in filesInDrive if item['id'] not in idsInDB
+                ]
                 extrasInDB = [
                     item for item in idsInDB if item not in idsInDrive]
 
                 print("Extras in drive: ", extrasInDrive)
-                for id in extrasInDrive:
+                for file in extraFilesInDrive:
                     filedata = {
-                        "title": "logo.jpg",  # TBD
-                        "driveid": id,
-                        "size": "99",  # TBD
+                        "title": file['name'], 
+                        "driveid": file['id'],
+                        "size": file['size'],
                         "filetype": filetype,
                         "finalized": True,
                         "code": course,
                     }
-                    addExtraToDB(filedata)
+                    print(addExtraToDB(filedata))
 
                 print("Extras in db: ", extrasInDB)
                 for id in extrasInDB:
