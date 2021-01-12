@@ -36,44 +36,48 @@ def addExtraToDB(filedata):
     return requests.post(f"{NEXUS_ROOT}/api/v1/files", data=filedata)
 
 
-def courseSync(filetype, departments, department, course, service):
-    if "_review" not in filetype and filetype != 'id':
-        print("\nFileType: " + filetype)
-        drive_link = departments[department][course][filetype]
+def courseSync(course, departments, department, service):
+    for filetype in departments[department][course]:
+        if course != 'id':
+            print("Course: " + course)
+            if "_review" not in filetype and filetype != 'id':
+                print("\nFileType: " + filetype)
+                drive_link = departments[department][course][filetype]
 
-        filesInDrive = listChildFilesInDriveFolder(
-            service, drive_link)
-        
-        filesInDB = listChildFilesInDB(course, filetype)
-        
-        idsInDrive = list(
-            map(lambda file: file['id'], filesInDrive))
-        idsInDB = list(
-            map(lambda file: file['driveid'], filesInDB))
+                filesInDrive = listChildFilesInDriveFolder(
+                    service, drive_link)
 
-        # Improve efficiency a lil here
-        extrasInDrive = [
-            item for item in idsInDrive if item not in idsInDB]
-        extrasInDB = [
-            item for item in idsInDB if item not in idsInDrive]
-        
-        print("Extras in drive: ", extrasInDrive)
-        for id in extrasInDrive:
-            filedata = {
-                "title": "logo.jpg",  # TBD
-                "driveid": id,
-                "size": "99",  # TBD
-                "filetype": filetype,
-                "finalized": True,
-                "code": course,
-            }
-            addExtraToDB(filedata)
+                filesInDB = listChildFilesInDB(course, filetype)
 
-        print("Extras in db: ", extrasInDB)
-        for id in extrasInDB:
-            deleteExtraInDB(id)
+                idsInDrive = list(
+                    map(lambda file: file['id'], filesInDrive))
+                idsInDB = list(
+                    map(lambda file: file['driveid'], filesInDB))
+
+                extrasInDrive = [
+                    item for item in idsInDrive if item not in idsInDB]
+                extrasInDB = [
+                    item for item in idsInDB if item not in idsInDrive]
+
+                print("Extras in drive: ", extrasInDrive)
+                for id in extrasInDrive:
+                    filedata = {
+                        "title": "logo.jpg",  # TBD
+                        "driveid": id,
+                        "size": "99",  # TBD
+                        "filetype": filetype,
+                        "finalized": True,
+                        "code": course,
+                    }
+                    addExtraToDB(filedata)
+
+                print("Extras in db: ", extrasInDB)
+                for id in extrasInDB:
+                    deleteExtraInDB(id)
 
 # FileSync module
+
+
 def fileSync(service):
     print('''
 ______ _ _          _____                          _             _      _   _   _ 
@@ -89,20 +93,21 @@ ______ _ _          _____                          _             _      _   _   
     print("Loading structure.json...", end=" ")
     input_file = open('structure.json')
     print("Loaded!")
+
+    # Access all departments
     departments = json.load(input_file)['study']
     for department in departments:
-        if department == "WRDMD":  # to be removed
-            if department == 'id':
-                continue
-            print("\nDepartment: " + department)
-            for course in departments[department]: ## Multithread each course
-                if course == 'id':
-                    continue
-                print("Course: " + course)
-                with concurrent.futures.ThreadPoolExecutor() as executor:
-                        results = [executor.submit(courseSync, filetype, departments, department, course, service) for filetype in departments[department][course]]
-                for f in concurrent.futures.as_completed(results):
-                    print(f.result())       
+        # Ignore the id
+        if department == 'id':
+            continue
+        print("\nDepartment: " + department)
+        ### Multithread each course
+        with concurrent.futures.ThreadPoolExecutor() as executor:
+            results = [executor.submit(
+                courseSync, course, departments, department, service) for course in departments[department]]
+        for f in concurrent.futures.as_completed(results):
+            print(f.result())
+
 
 if __name__ == '__main__':
     start = time.perf_counter()
