@@ -1,31 +1,36 @@
+import json
 import requests
 
-URL_DEPARTMENTS = "https://channeli.in/lectut_api/departments/"
-URL_COURSES = "https://channeli.in/lectut_api/departmentDetails/"
-URL_POST_DEPARTMENTS = "http://nexus.sdslabs.local/api/v1/departments/"
-URL_POST_COURSES = "http://nexus.sdslabs.local/api/v1/courses/"
+URL_POST_DEPARTMENTS = "https://nexus.sdslabs.co/api/v1/departments/"
+URL_POST_COURSES = "https://nexus.sdslabs.co/api/v1/courses/"
 
-r = requests.get(url = URL_DEPARTMENTS)
-departmentList = r.json()
-departments = departmentList["departments"]
-for department in departments:
-    print(department)
-    data = {
-        'title': department[1],
-        'abbreviation': department[0],
-        'imageurl': str(department[0]).lower()+".png"
-    }
-    requests.post(url = URL_POST_DEPARTMENTS, data = data)
-    url = URL_COURSES+str(department[0])+"/"
-    r1 = requests.get(url = url)
-    if not r1:
-        continue
-    courseList = r1.json()
-    courses = courseList["courses"]
-    for course in courses:
-        coursedata = {
-            'title': course["name"],
-            'department': department[1],
-            'code': course["code"]
+SECRET_KEY = "s-0n5h@4*e((tj3ll%8v=)9t$*24t*mdx6tyt&4+5k-l3x)pl="
+
+
+with open("departments.json") as h:
+    departments = json.load(h)
+    for department in departments["department"]:
+        data = {
+            'title': department["title"],
+            'abbreviation': department["abbreviation"]
         }
-        requests.post(url = URL_POST_COURSES, data = coursedata)
+        requests.post(
+            url=URL_POST_DEPARTMENTS,
+            data=data,
+            headers={"Authorization": "Bearer " + SECRET_KEY},
+        )
+
+with open("courses.json") as h:
+    courses = json.load(h)
+    for course in courses:
+        print(course)
+        data = {
+            'title': course["title"],
+            'code': course["code"],
+            'department': course["department"]["title"]
+        }
+        requests.post(
+            url=URL_POST_COURSES,
+            data=data,
+            headers={"Authorization": "Bearer " + SECRET_KEY},
+        )

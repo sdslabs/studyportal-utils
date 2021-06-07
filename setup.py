@@ -3,17 +3,17 @@ import requests
 from init import driveinit
 
 URL_DEPARTMENTS = "https://channeli.in/lectut_api/departments/"
-URL_COURSES = "https://channeli.in/lectut_api/departmentDetails/"
- 
- 
-class dictionary(dict):   
-    # __init__ function 
-    def __init__(self): 
-        self = dict() 
-          
-    # Function to add key:value 
-    def add(self, key, value): 
-        self[key] = value 
+URL_COURSES = "https://nexus.sdslabs.co/api/v1/departments?department="
+
+
+class dictionary(dict):
+    # __init__ function
+    def __init__(self):
+        self = dict()
+
+    # Function to add key:value
+    def add(self, key, value):
+        self[key] = value
 
 
 def create_root(service=driveinit()):
@@ -56,16 +56,15 @@ if __name__ == '__main__':
     root_dict = dictionary()
     FOLDER_ID = create_root()
     root_dict.add('id', FOLDER_ID)
-    r = requests.get(url=URL_DEPARTMENTS)
-    departments_list = r.json()['departments']
+    departments_list = json.load(open('departments.json'))['department']
 
     for department in departments_list:
         department_dict = dictionary()
-        department_folder_id = create_folder(department[0], FOLDER_ID)
+        department_folder_id = create_folder(department['abbreviation'], FOLDER_ID)
         department_dict.add('id', department_folder_id)
-        url_course = URL_COURSES+str(department[0])+"/"
+        url_course = URL_COURSES+str(department['abbreviation'])
         r1 = requests.get(url=url_course)
-        
+
         if r1:
             courses_list = r1.json()['courses']
             for course in courses_list:
@@ -74,7 +73,7 @@ if __name__ == '__main__':
                 course_dict.add('id', course_folder_id)
                 create_folder_for_files(course_dict, course_folder_id)
                 department_dict.add(course['code'], course_dict)
-        root_dict.add(department[0], department_dict)
+        root_dict.add(department['abbreviation'], department_dict)
     main_dict.add('study', root_dict)
     f = open("structure.json", "w+")
     f.write(json.dumps(main_dict))

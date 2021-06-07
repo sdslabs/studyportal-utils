@@ -1,0 +1,6492 @@
+[
+  {
+    "id": 1250,
+    "title": "Advanced Characterization Techniques",
+    "department": {
+      "id": 118,
+      "title": "Applied Science and Engineering",
+      "abbreviation": "ASED",
+      "imageurl": "ased.png"
+    },
+    "code": "AS-901"
+  },
+  {
+    "id": 1251,
+    "title": "SEMINAR",
+    "department": {
+      "id": 118,
+      "title": "Applied Science and Engineering",
+      "abbreviation": "ASED",
+      "imageurl": "ased.png"
+    },
+    "code": "ASN-700"
+  },
+  {
+    "id": 1252,
+    "title": "Modern World Architecture",
+    "department": {
+      "id": 119,
+      "title": "Architecture and Planning",
+      "abbreviation": "ARCD",
+      "imageurl": "arcd.png"
+    },
+    "code": "ARN-210"
+  },
+  {
+    "id": 1253,
+    "title": "Planning Legislation and Governance",
+    "department": {
+      "id": 119,
+      "title": "Architecture and Planning",
+      "abbreviation": "ARCD",
+      "imageurl": "arcd.png"
+    },
+    "code": "ARN-661"
+  },
+  {
+    "id": 1254,
+    "title": "Regional Planning",
+    "department": {
+      "id": 119,
+      "title": "Architecture and Planning",
+      "abbreviation": "ARCD",
+      "imageurl": "arcd.png"
+    },
+    "code": "ARN-676"
+  },
+  {
+    "id": 1255,
+    "title": "SEMINAR",
+    "department": {
+      "id": 119,
+      "title": "Architecture and Planning",
+      "abbreviation": "ARCD",
+      "imageurl": "arcd.png"
+    },
+    "code": "ARN-700"
+  },
+  {
+    "id": 1256,
+    "title": "Introduction to Architecture",
+    "department": {
+      "id": 119,
+      "title": "Architecture and Planning",
+      "abbreviation": "ARCD",
+      "imageurl": "arcd.png"
+    },
+    "code": "ARN-101"
+  },
+  {
+    "id": 1257,
+    "title": "Visual Art I",
+    "department": {
+      "id": 119,
+      "title": "Architecture and Planning",
+      "abbreviation": "ARCD",
+      "imageurl": "arcd.png"
+    },
+    "code": "ARN-103"
+  },
+  {
+    "id": 1258,
+    "title": "Architectural Graphics I",
+    "department": {
+      "id": 119,
+      "title": "Architecture and Planning",
+      "abbreviation": "ARCD",
+      "imageurl": "arcd.png"
+    },
+    "code": "ARN-105"
+  },
+  {
+    "id": 1259,
+    "title": "Basic Design and Creative Workshop I",
+    "department": {
+      "id": 119,
+      "title": "Architecture and Planning",
+      "abbreviation": "ARCD",
+      "imageurl": "arcd.png"
+    },
+    "code": "ARN-107"
+  },
+  {
+    "id": 1260,
+    "title": "ARCHITECTURAL DESIGN II",
+    "department": {
+      "id": 119,
+      "title": "Architecture and Planning",
+      "abbreviation": "ARCD",
+      "imageurl": "arcd.png"
+    },
+    "code": "ARN-201"
+  },
+  {
+    "id": 1261,
+    "title": "Architectural Design-III",
+    "department": {
+      "id": 119,
+      "title": "Architecture and Planning",
+      "abbreviation": "ARCD",
+      "imageurl": "arcd.png"
+    },
+    "code": "ARN-202"
+  },
+  {
+    "id": 1262,
+    "title": "BUILDING CONSTRUCTION II",
+    "department": {
+      "id": 119,
+      "title": "Architecture and Planning",
+      "abbreviation": "ARCD",
+      "imageurl": "arcd.png"
+    },
+    "code": "ARN-203"
+  },
+  {
+    "id": 1263,
+    "title": "HISTORY OF ARCHITECTUTRE I",
+    "department": {
+      "id": 119,
+      "title": "Architecture and Planning",
+      "abbreviation": "ARCD",
+      "imageurl": "arcd.png"
+    },
+    "code": "ARN-205"
+  },
+  {
+    "id": 1264,
+    "title": "QUANTITY, PRICING AND SPECIFICATIONS",
+    "department": {
+      "id": 119,
+      "title": "Architecture and Planning",
+      "abbreviation": "ARCD",
+      "imageurl": "arcd.png"
+    },
+    "code": "ARN-207"
+  },
+  {
+    "id": 1265,
+    "title": "STRUCTURE AND ARCHITECTURE",
+    "department": {
+      "id": 119,
+      "title": "Architecture and Planning",
+      "abbreviation": "ARCD",
+      "imageurl": "arcd.png"
+    },
+    "code": "ARN-209"
+  },
+  {
+    "id": 1266,
+    "title": "PRICIPLES OF ARCHITECTURE",
+    "department": {
+      "id": 119,
+      "title": "Architecture and Planning",
+      "abbreviation": "ARCD",
+      "imageurl": "arcd.png"
+    },
+    "code": "ARN-211"
+  },
+  {
+    "id": 1267,
+    "title": "MEASURED DRAWING CAMP",
+    "department": {
+      "id": 119,
+      "title": "Architecture and Planning",
+      "abbreviation": "ARCD",
+      "imageurl": "arcd.png"
+    },
+    "code": "ARN-213"
+  },
+  {
+    "id": 1268,
+    "title": "Architectural Design-IV",
+    "department": {
+      "id": 119,
+      "title": "Architecture and Planning",
+      "abbreviation": "ARCD",
+      "imageurl": "arcd.png"
+    },
+    "code": "ARN-301"
+  },
+  {
+    "id": 1269,
+    "title": "Building Construction-IV",
+    "department": {
+      "id": 119,
+      "title": "Architecture and Planning",
+      "abbreviation": "ARCD",
+      "imageurl": "arcd.png"
+    },
+    "code": "ARN-303"
+  },
+  {
+    "id": 1270,
+    "title": "Computer Applications in Architecture",
+    "department": {
+      "id": 119,
+      "title": "Architecture and Planning",
+      "abbreviation": "ARCD",
+      "imageurl": "arcd.png"
+    },
+    "code": "ARN-305"
+  },
+  {
+    "id": 1271,
+    "title": "Interior Design ",
+    "department": {
+      "id": 119,
+      "title": "Architecture and Planning",
+      "abbreviation": "ARCD",
+      "imageurl": "arcd.png"
+    },
+    "code": "ARN-307 "
+  },
+  {
+    "id": 1272,
+    "title": "MODERN INDIAN ARCHITECTURE",
+    "department": {
+      "id": 119,
+      "title": "Architecture and Planning",
+      "abbreviation": "ARCD",
+      "imageurl": "arcd.png"
+    },
+    "code": "ARN-311"
+  },
+  {
+    "id": 1273,
+    "title": "Architectural Design-VI",
+    "department": {
+      "id": 119,
+      "title": "Architecture and Planning",
+      "abbreviation": "ARCD",
+      "imageurl": "arcd.png"
+    },
+    "code": "ARN-401"
+  },
+  {
+    "id": 1274,
+    "title": "Urban Design",
+    "department": {
+      "id": 119,
+      "title": "Architecture and Planning",
+      "abbreviation": "ARCD",
+      "imageurl": "arcd.png"
+    },
+    "code": "ARN-403"
+  },
+  {
+    "id": 1275,
+    "title": "Sustainable Architecture",
+    "department": {
+      "id": 119,
+      "title": "Architecture and Planning",
+      "abbreviation": "ARCD",
+      "imageurl": "arcd.png"
+    },
+    "code": "ARN-405"
+  },
+  {
+    "id": 1276,
+    "title": "Working Drawing",
+    "department": {
+      "id": 119,
+      "title": "Architecture and Planning",
+      "abbreviation": "ARCD",
+      "imageurl": "arcd.png"
+    },
+    "code": "ARN-407"
+  },
+  {
+    "id": 1277,
+    "title": "Ekistics ",
+    "department": {
+      "id": 119,
+      "title": "Architecture and Planning",
+      "abbreviation": "ARCD",
+      "imageurl": "arcd.png"
+    },
+    "code": "ARN-411 "
+  },
+  {
+    "id": 1278,
+    "title": "Live Project/ Studio/ Seminar-I",
+    "department": {
+      "id": 119,
+      "title": "Architecture and Planning",
+      "abbreviation": "ARCD",
+      "imageurl": "arcd.png"
+    },
+    "code": "ARN-415"
+  },
+  {
+    "id": 1279,
+    "title": "Architectural Design-VII",
+    "department": {
+      "id": 119,
+      "title": "Architecture and Planning",
+      "abbreviation": "ARCD",
+      "imageurl": "arcd.png"
+    },
+    "code": "ARN-501"
+  },
+  {
+    "id": 1280,
+    "title": "Thesis Project I",
+    "department": {
+      "id": 119,
+      "title": "Architecture and Planning",
+      "abbreviation": "ARCD",
+      "imageurl": "arcd.png"
+    },
+    "code": "ARN-503"
+  },
+  {
+    "id": 1281,
+    "title": "Urban  Planning",
+    "department": {
+      "id": 119,
+      "title": "Architecture and Planning",
+      "abbreviation": "ARCD",
+      "imageurl": "arcd.png"
+    },
+    "code": "ARN-505"
+  },
+  {
+    "id": 1282,
+    "title": "Hill Architecture",
+    "department": {
+      "id": 119,
+      "title": "Architecture and Planning",
+      "abbreviation": "ARCD",
+      "imageurl": "arcd.png"
+    },
+    "code": "ARN-507"
+  },
+  {
+    "id": 1283,
+    "title": "Vastushastra",
+    "department": {
+      "id": 119,
+      "title": "Architecture and Planning",
+      "abbreviation": "ARCD",
+      "imageurl": "arcd.png"
+    },
+    "code": "ARN-513"
+  },
+  {
+    "id": 1284,
+    "title": "Live Project/Studio/Seminar-II",
+    "department": {
+      "id": 119,
+      "title": "Architecture and Planning",
+      "abbreviation": "ARCD",
+      "imageurl": "arcd.png"
+    },
+    "code": "ARN-515"
+  },
+  {
+    "id": 1285,
+    "title": "Design Studio-I",
+    "department": {
+      "id": 119,
+      "title": "Architecture and Planning",
+      "abbreviation": "ARCD",
+      "imageurl": "arcd.png"
+    },
+    "code": "ARN-601"
+  },
+  {
+    "id": 1286,
+    "title": "Contemporary Architecture- Theories and Trends",
+    "department": {
+      "id": 119,
+      "title": "Architecture and Planning",
+      "abbreviation": "ARCD",
+      "imageurl": "arcd.png"
+    },
+    "code": "ARN-603"
+  },
+  {
+    "id": 1287,
+    "title": "Urban Design",
+    "department": {
+      "id": 119,
+      "title": "Architecture and Planning",
+      "abbreviation": "ARCD",
+      "imageurl": "arcd.png"
+    },
+    "code": "ARN-605"
+  },
+  {
+    "id": 1288,
+    "title": "Advanced Building Technologies",
+    "department": {
+      "id": 119,
+      "title": "Architecture and Planning",
+      "abbreviation": "ARCD",
+      "imageurl": "arcd.png"
+    },
+    "code": "ARN-607"
+  },
+  {
+    "id": 1289,
+    "title": "Computer Applications in Architecture",
+    "department": {
+      "id": 119,
+      "title": "Architecture and Planning",
+      "abbreviation": "ARCD",
+      "imageurl": "arcd.png"
+    },
+    "code": "ARN-609"
+  },
+  {
+    "id": 1290,
+    "title": "Planning Studio-I",
+    "department": {
+      "id": 119,
+      "title": "Architecture and Planning",
+      "abbreviation": "ARCD",
+      "imageurl": "arcd.png"
+    },
+    "code": "ARN-651"
+  },
+  {
+    "id": 1291,
+    "title": "Socio Economics, Demography and Quantitative Techniques",
+    "department": {
+      "id": 119,
+      "title": "Architecture and Planning",
+      "abbreviation": "ARCD",
+      "imageurl": "arcd.png"
+    },
+    "code": "ARN-653"
+  },
+  {
+    "id": 1292,
+    "title": "Infrastructure Planning",
+    "department": {
+      "id": 119,
+      "title": "Architecture and Planning",
+      "abbreviation": "ARCD",
+      "imageurl": "arcd.png"
+    },
+    "code": "ARN-654"
+  },
+  {
+    "id": 1293,
+    "title": "Ecology and Sustainable Development",
+    "department": {
+      "id": 119,
+      "title": "Architecture and Planning",
+      "abbreviation": "ARCD",
+      "imageurl": "arcd.png"
+    },
+    "code": "ARN-655"
+  },
+  {
+    "id": 1294,
+    "title": "Planning Theory and Techniques",
+    "department": {
+      "id": 119,
+      "title": "Architecture and Planning",
+      "abbreviation": "ARCD",
+      "imageurl": "arcd.png"
+    },
+    "code": "ARN-657"
+  },
+  {
+    "id": 1295,
+    "title": "Housing",
+    "department": {
+      "id": 119,
+      "title": "Architecture and Planning",
+      "abbreviation": "ARCD",
+      "imageurl": "arcd.png"
+    },
+    "code": "ARN-659"
+  },
+  {
+    "id": 1296,
+    "title": "DISSERTATION STAGE-I (TO BE CONTINUED NEXT SEMESTER)",
+    "department": {
+      "id": 119,
+      "title": "Architecture and Planning",
+      "abbreviation": "ARCD",
+      "imageurl": "arcd.png"
+    },
+    "code": "ARN-701A"
+  },
+  {
+    "id": 1297,
+    "title": "Design Studio-III",
+    "department": {
+      "id": 119,
+      "title": "Architecture and Planning",
+      "abbreviation": "ARCD",
+      "imageurl": "arcd.png"
+    },
+    "code": "ARN-703"
+  },
+  {
+    "id": 1298,
+    "title": "Professional Training",
+    "department": {
+      "id": 119,
+      "title": "Architecture and Planning",
+      "abbreviation": "ARCD",
+      "imageurl": "arcd.png"
+    },
+    "code": "ARN-705"
+  },
+  {
+    "id": 1299,
+    "title": "DISSERTATION STAGE-I",
+    "department": {
+      "id": 119,
+      "title": "Architecture and Planning",
+      "abbreviation": "ARCD",
+      "imageurl": "arcd.png"
+    },
+    "code": "ARN-751A"
+  },
+  {
+    "id": 1300,
+    "title": "Planning  Studio-III",
+    "department": {
+      "id": 119,
+      "title": "Architecture and Planning",
+      "abbreviation": "ARCD",
+      "imageurl": "arcd.png"
+    },
+    "code": "ARN-753"
+  },
+  {
+    "id": 1301,
+    "title": "Professional Training",
+    "department": {
+      "id": 119,
+      "title": "Architecture and Planning",
+      "abbreviation": "ARCD",
+      "imageurl": "arcd.png"
+    },
+    "code": "ARN-755"
+  },
+  {
+    "id": 1302,
+    "title": "MICROBIOLOGY",
+    "department": {
+      "id": 120,
+      "title": "Biotechnology",
+      "abbreviation": "BTD",
+      "imageurl": "btd.png"
+    },
+    "code": "BTN-203"
+  },
+  {
+    "id": 1303,
+    "title": "BIOINFORMATICS",
+    "department": {
+      "id": 120,
+      "title": "Biotechnology",
+      "abbreviation": "BTD",
+      "imageurl": "btd.png"
+    },
+    "code": "BTN-205"
+  },
+  {
+    "id": 1304,
+    "title": "Chemical Kinetics and Reactor Design",
+    "department": {
+      "id": 120,
+      "title": "Biotechnology",
+      "abbreviation": "BTD",
+      "imageurl": "btd.png"
+    },
+    "code": "BTN-292"
+  },
+  {
+    "id": 1305,
+    "title": "Bioprocess Engineering",
+    "department": {
+      "id": 120,
+      "title": "Biotechnology",
+      "abbreviation": "BTD",
+      "imageurl": "btd.png"
+    },
+    "code": "BTN-301"
+  },
+  {
+    "id": 1306,
+    "title": "Bioseparation  Engineering",
+    "department": {
+      "id": 120,
+      "title": "Biotechnology",
+      "abbreviation": "BTD",
+      "imageurl": "btd.png"
+    },
+    "code": "BTN-302"
+  },
+  {
+    "id": 1307,
+    "title": "Plant Biotechnology",
+    "department": {
+      "id": 120,
+      "title": "Biotechnology",
+      "abbreviation": "BTD",
+      "imageurl": "btd.png"
+    },
+    "code": "BTN-303"
+  },
+  {
+    "id": 1308,
+    "title": "Animal Biotechnology",
+    "department": {
+      "id": 120,
+      "title": "Biotechnology",
+      "abbreviation": "BTD",
+      "imageurl": "btd.png"
+    },
+    "code": "BTN-305"
+  },
+  {
+    "id": 1309,
+    "title": "Molecular Biophysics",
+    "department": {
+      "id": 120,
+      "title": "Biotechnology",
+      "abbreviation": "BTD",
+      "imageurl": "btd.png"
+    },
+    "code": "BTN-342"
+  },
+  {
+    "id": 1310,
+    "title": "CELL AND TISSUE ENGINEERING",
+    "department": {
+      "id": 120,
+      "title": "Biotechnology",
+      "abbreviation": "BTD",
+      "imageurl": "btd.png"
+    },
+    "code": "BTN-345"
+  },
+  {
+    "id": 1311,
+    "title": "Introduction to Biotechnology",
+    "department": {
+      "id": 120,
+      "title": "Biotechnology",
+      "abbreviation": "BTD",
+      "imageurl": "btd.png"
+    },
+    "code": "BTN-101"
+  },
+  {
+    "id": 1312,
+    "title": "Computer Programming",
+    "department": {
+      "id": 120,
+      "title": "Biotechnology",
+      "abbreviation": "BTD",
+      "imageurl": "btd.png"
+    },
+    "code": "BTN-103"
+  },
+  {
+    "id": 1313,
+    "title": "GENETICS AND MOLECULAR BIOLOGY",
+    "department": {
+      "id": 120,
+      "title": "Biotechnology",
+      "abbreviation": "BTD",
+      "imageurl": "btd.png"
+    },
+    "code": "BTN-201"
+  },
+  {
+    "id": 1314,
+    "title": "IMMUNOTECHNOLOGY",
+    "department": {
+      "id": 120,
+      "title": "Biotechnology",
+      "abbreviation": "BTD",
+      "imageurl": "btd.png"
+    },
+    "code": "BTN-207"
+  },
+  {
+    "id": 1315,
+    "title": "Technical Communication",
+    "department": {
+      "id": 120,
+      "title": "Biotechnology",
+      "abbreviation": "BTD",
+      "imageurl": "btd.png"
+    },
+    "code": "BTN-391"
+  },
+  {
+    "id": 1316,
+    "title": "B.Tech. Project ",
+    "department": {
+      "id": 120,
+      "title": "Biotechnology",
+      "abbreviation": "BTD",
+      "imageurl": "btd.png"
+    },
+    "code": "BTN-400A"
+  },
+  {
+    "id": 1317,
+    "title": "Genomics and Proteomics",
+    "department": {
+      "id": 120,
+      "title": "Biotechnology",
+      "abbreviation": "BTD",
+      "imageurl": "btd.png"
+    },
+    "code": "BTN-445"
+  },
+  {
+    "id": 1318,
+    "title": "Protein Engineering",
+    "department": {
+      "id": 120,
+      "title": "Biotechnology",
+      "abbreviation": "BTD",
+      "imageurl": "btd.png"
+    },
+    "code": "BTN-447"
+  },
+  {
+    "id": 1319,
+    "title": "Drug Designing",
+    "department": {
+      "id": 120,
+      "title": "Biotechnology",
+      "abbreviation": "BTD",
+      "imageurl": "btd.png"
+    },
+    "code": "BTN-455"
+  },
+  {
+    "id": 1320,
+    "title": "Training Seminar",
+    "department": {
+      "id": 120,
+      "title": "Biotechnology",
+      "abbreviation": "BTD",
+      "imageurl": "btd.png"
+    },
+    "code": "BTN-499"
+  },
+  {
+    "id": 1321,
+    "title": "Biochemistry",
+    "department": {
+      "id": 120,
+      "title": "Biotechnology",
+      "abbreviation": "BTD",
+      "imageurl": "btd.png"
+    },
+    "code": "BTN-512"
+  },
+  {
+    "id": 1322,
+    "title": "Biotechnology Laboratory – I",
+    "department": {
+      "id": 120,
+      "title": "Biotechnology",
+      "abbreviation": "BTD",
+      "imageurl": "btd.png"
+    },
+    "code": "BTN-513"
+  },
+  {
+    "id": 1323,
+    "title": "Applied Microbiology",
+    "department": {
+      "id": 120,
+      "title": "Biotechnology",
+      "abbreviation": "BTD",
+      "imageurl": "btd.png"
+    },
+    "code": "BTN-514"
+  },
+  {
+    "id": 1324,
+    "title": "Genetics & Molecular Biology",
+    "department": {
+      "id": 120,
+      "title": "Biotechnology",
+      "abbreviation": "BTD",
+      "imageurl": "btd.png"
+    },
+    "code": "BTN-515"
+  },
+  {
+    "id": 1325,
+    "title": "Cell & Developmental Biology",
+    "department": {
+      "id": 120,
+      "title": "Biotechnology",
+      "abbreviation": "BTD",
+      "imageurl": "btd.png"
+    },
+    "code": "BTN-516"
+  },
+  {
+    "id": 1326,
+    "title": "Technical  Communication",
+    "department": {
+      "id": 120,
+      "title": "Biotechnology",
+      "abbreviation": "BTD",
+      "imageurl": "btd.png"
+    },
+    "code": "BTN-524"
+  },
+  {
+    "id": 1327,
+    "title": "BIOREACTION ENGINEERING ",
+    "department": {
+      "id": 120,
+      "title": "Biotechnology",
+      "abbreviation": "BTD",
+      "imageurl": "btd.png"
+    },
+    "code": "BTN-531"
+  },
+  {
+    "id": 1328,
+    "title": "DOWNSTREAM PROCESSING",
+    "department": {
+      "id": 120,
+      "title": "Biotechnology",
+      "abbreviation": "BTD",
+      "imageurl": "btd.png"
+    },
+    "code": "BTN-532"
+  },
+  {
+    "id": 1329,
+    "title": "Biophysical Techniques",
+    "department": {
+      "id": 120,
+      "title": "Biotechnology",
+      "abbreviation": "BTD",
+      "imageurl": "btd.png"
+    },
+    "code": "BTN-611"
+  },
+  {
+    "id": 1330,
+    "title": "Genetic Engineering",
+    "department": {
+      "id": 120,
+      "title": "Biotechnology",
+      "abbreviation": "BTD",
+      "imageurl": "btd.png"
+    },
+    "code": "BTN-612"
+  },
+  {
+    "id": 1331,
+    "title": "Seminar",
+    "department": {
+      "id": 120,
+      "title": "Biotechnology",
+      "abbreviation": "BTD",
+      "imageurl": "btd.png"
+    },
+    "code": "BTN-613"
+  },
+  {
+    "id": 1332,
+    "title": "Biotechnology Laboratory – III",
+    "department": {
+      "id": 120,
+      "title": "Biotechnology",
+      "abbreviation": "BTD",
+      "imageurl": "btd.png"
+    },
+    "code": "BTN-614"
+  },
+  {
+    "id": 1333,
+    "title": "Cell & Tissue Culture Technology",
+    "department": {
+      "id": 120,
+      "title": "Biotechnology",
+      "abbreviation": "BTD",
+      "imageurl": "btd.png"
+    },
+    "code": "BTN-621"
+  },
+  {
+    "id": 1334,
+    "title": "Vaccine Development & Production",
+    "department": {
+      "id": 120,
+      "title": "Biotechnology",
+      "abbreviation": "BTD",
+      "imageurl": "btd.png"
+    },
+    "code": "BTN-625"
+  },
+  {
+    "id": 1335,
+    "title": "Genomics and Proteomics",
+    "department": {
+      "id": 120,
+      "title": "Biotechnology",
+      "abbreviation": "BTD",
+      "imageurl": "btd.png"
+    },
+    "code": "BTN-629"
+  },
+  {
+    "id": 1336,
+    "title": "Structural Biology",
+    "department": {
+      "id": 120,
+      "title": "Biotechnology",
+      "abbreviation": "BTD",
+      "imageurl": "btd.png"
+    },
+    "code": "BTN-632"
+  },
+  {
+    "id": 1337,
+    "title": "Chemical Genetics and Drug Discovery",
+    "department": {
+      "id": 120,
+      "title": "Biotechnology",
+      "abbreviation": "BTD",
+      "imageurl": "btd.png"
+    },
+    "code": "BTN-635"
+  },
+  {
+    "id": 1338,
+    "title": "MICROBIOLOGY AND BIOCHEMISTRY",
+    "department": {
+      "id": 120,
+      "title": "Biotechnology",
+      "abbreviation": "BTD",
+      "imageurl": "btd.png"
+    },
+    "code": "BTN-651"
+  },
+  {
+    "id": 1339,
+    "title": "REACTION KINETICS AND REACTOR DESIGN",
+    "department": {
+      "id": 120,
+      "title": "Biotechnology",
+      "abbreviation": "BTD",
+      "imageurl": "btd.png"
+    },
+    "code": "BTN-655"
+  },
+  {
+    "id": 1340,
+    "title": "RECOMBINANT DNA TECHNOLOGY",
+    "department": {
+      "id": 120,
+      "title": "Biotechnology",
+      "abbreviation": "BTD",
+      "imageurl": "btd.png"
+    },
+    "code": "BTN-657"
+  },
+  {
+    "id": 1341,
+    "title": "ADVANCED TRANSPORT PROCESS",
+    "department": {
+      "id": 120,
+      "title": "Biotechnology",
+      "abbreviation": "BTD",
+      "imageurl": "btd.png"
+    },
+    "code": "BTN-658"
+  },
+  {
+    "id": 1342,
+    "title": "SEMINAR",
+    "department": {
+      "id": 120,
+      "title": "Biotechnology",
+      "abbreviation": "BTD",
+      "imageurl": "btd.png"
+    },
+    "code": "BTN-700"
+  },
+  {
+    "id": 1343,
+    "title": "DISSERTATION STAGE I",
+    "department": {
+      "id": 120,
+      "title": "Biotechnology",
+      "abbreviation": "BTD",
+      "imageurl": "btd.png"
+    },
+    "code": "BTN-701A"
+  },
+  {
+    "id": 1344,
+    "title": "Advanced Thermodynamics and Molecular Simulations",
+    "department": {
+      "id": 121,
+      "title": "Chemical Engineering",
+      "abbreviation": "CHED",
+      "imageurl": "ched.png"
+    },
+    "code": "CHE-507"
+  },
+  {
+    "id": 1345,
+    "title": "Introduction to Chemical  Engineering",
+    "department": {
+      "id": 121,
+      "title": "Chemical Engineering",
+      "abbreviation": "CHED",
+      "imageurl": "ched.png"
+    },
+    "code": "CHN-101"
+  },
+  {
+    "id": 1346,
+    "title": "Material and Energy Balance",
+    "department": {
+      "id": 121,
+      "title": "Chemical Engineering",
+      "abbreviation": "CHED",
+      "imageurl": "ched.png"
+    },
+    "code": "CHN-102"
+  },
+  {
+    "id": 1347,
+    "title": "Computer Programming and Numerical Methods",
+    "department": {
+      "id": 121,
+      "title": "Chemical Engineering",
+      "abbreviation": "CHED",
+      "imageurl": "ched.png"
+    },
+    "code": "CHN-103"
+  },
+  {
+    "id": 1348,
+    "title": "Mass Transfer -I",
+    "department": {
+      "id": 121,
+      "title": "Chemical Engineering",
+      "abbreviation": "CHED",
+      "imageurl": "ched.png"
+    },
+    "code": "CHN-202"
+  },
+  {
+    "id": 1349,
+    "title": "Mass Transfer",
+    "department": {
+      "id": 121,
+      "title": "Chemical Engineering",
+      "abbreviation": "CHED",
+      "imageurl": "ched.png"
+    },
+    "code": "CHN-212"
+  },
+  {
+    "id": 1350,
+    "title": "Mass Transfer-II",
+    "department": {
+      "id": 121,
+      "title": "Chemical Engineering",
+      "abbreviation": "CHED",
+      "imageurl": "ched.png"
+    },
+    "code": "CHN-301"
+  },
+  {
+    "id": 1351,
+    "title": "Computer Application in Chemical Engineering",
+    "department": {
+      "id": 121,
+      "title": "Chemical Engineering",
+      "abbreviation": "CHED",
+      "imageurl": "ched.png"
+    },
+    "code": "CHN-323"
+  },
+  {
+    "id": 1352,
+    "title": "Fluidization Engineering",
+    "department": {
+      "id": 121,
+      "title": "Chemical Engineering",
+      "abbreviation": "CHED",
+      "imageurl": "ched.png"
+    },
+    "code": "CHN-326"
+  },
+  {
+    "id": 1353,
+    "title": "Polymer Physics and Rheology*",
+    "department": {
+      "id": 121,
+      "title": "Chemical Engineering",
+      "abbreviation": "CHED",
+      "imageurl": "ched.png"
+    },
+    "code": "CHN-411"
+  },
+  {
+    "id": 1354,
+    "title": "Mathematical Methods in Chemical Engineering ",
+    "department": {
+      "id": 121,
+      "title": "Chemical Engineering",
+      "abbreviation": "CHED",
+      "imageurl": "ched.png"
+    },
+    "code": "CHE-501"
+  },
+  {
+    "id": 1355,
+    "title": "Advanced Transport Phenomena",
+    "department": {
+      "id": 121,
+      "title": "Chemical Engineering",
+      "abbreviation": "CHED",
+      "imageurl": "ched.png"
+    },
+    "code": "CHE-503"
+  },
+  {
+    "id": 1356,
+    "title": "Advanced Reaction Engineering",
+    "department": {
+      "id": 121,
+      "title": "Chemical Engineering",
+      "abbreviation": "CHED",
+      "imageurl": "ched.png"
+    },
+    "code": "CHE-505"
+  },
+  {
+    "id": 1357,
+    "title": "Biochemical Engineering",
+    "department": {
+      "id": 121,
+      "title": "Chemical Engineering",
+      "abbreviation": "CHED",
+      "imageurl": "ched.png"
+    },
+    "code": "CHE-513"
+  },
+  {
+    "id": 1358,
+    "title": "COMPUTATIONAL FLUID DYNAMICS",
+    "department": {
+      "id": 121,
+      "title": "Chemical Engineering",
+      "abbreviation": "CHED",
+      "imageurl": "ched.png"
+    },
+    "code": "CHE-515"
+  },
+  {
+    "id": 1359,
+    "title": "SEMINAR",
+    "department": {
+      "id": 121,
+      "title": "Chemical Engineering",
+      "abbreviation": "CHED",
+      "imageurl": "ched.png"
+    },
+    "code": "CHE-700"
+  },
+  {
+    "id": 1360,
+    "title": "HEAT TRANSFER",
+    "department": {
+      "id": 121,
+      "title": "Chemical Engineering",
+      "abbreviation": "CHED",
+      "imageurl": "ched.png"
+    },
+    "code": "CHN-201"
+  },
+  {
+    "id": 1361,
+    "title": "MECHANICAL OPERATION",
+    "department": {
+      "id": 121,
+      "title": "Chemical Engineering",
+      "abbreviation": "CHED",
+      "imageurl": "ched.png"
+    },
+    "code": "CHN-203"
+  },
+  {
+    "id": 1362,
+    "title": "CHEMICAL ENGINEERING THERMODYNAMICS",
+    "department": {
+      "id": 121,
+      "title": "Chemical Engineering",
+      "abbreviation": "CHED",
+      "imageurl": "ched.png"
+    },
+    "code": "CHN-205"
+  },
+  {
+    "id": 1363,
+    "title": "Chemical Technology",
+    "department": {
+      "id": 121,
+      "title": "Chemical Engineering",
+      "abbreviation": "CHED",
+      "imageurl": "ched.png"
+    },
+    "code": "CHN-206"
+  },
+  {
+    "id": 1364,
+    "title": "CHEMICAL ENGINEERING THERMODYNAMICS",
+    "department": {
+      "id": 121,
+      "title": "Chemical Engineering",
+      "abbreviation": "CHED",
+      "imageurl": "ched.png"
+    },
+    "code": "CHN-207"
+  },
+  {
+    "id": 1365,
+    "title": "Fluid and Fluid Particle Mechanics",
+    "department": {
+      "id": 121,
+      "title": "Chemical Engineering",
+      "abbreviation": "CHED",
+      "imageurl": "ched.png"
+    },
+    "code": "CHN-211"
+  },
+  {
+    "id": 1366,
+    "title": "Enginering Analysis and Process Modeling",
+    "department": {
+      "id": 121,
+      "title": "Chemical Engineering",
+      "abbreviation": "CHED",
+      "imageurl": "ched.png"
+    },
+    "code": "CHN-302"
+  },
+  {
+    "id": 1367,
+    "title": "Process Dynamics and Control",
+    "department": {
+      "id": 121,
+      "title": "Chemical Engineering",
+      "abbreviation": "CHED",
+      "imageurl": "ched.png"
+    },
+    "code": "CHN-303"
+  },
+  {
+    "id": 1368,
+    "title": "Process Equipment Design*",
+    "department": {
+      "id": 121,
+      "title": "Chemical Engineering",
+      "abbreviation": "CHED",
+      "imageurl": "ched.png"
+    },
+    "code": "CHN-305"
+  },
+  {
+    "id": 1369,
+    "title": "Process Utilities and Safety ",
+    "department": {
+      "id": 121,
+      "title": "Chemical Engineering",
+      "abbreviation": "CHED",
+      "imageurl": "ched.png"
+    },
+    "code": "CHN-306"
+  },
+  {
+    "id": 1370,
+    "title": "Optimization of Chemical Enigneering Processes",
+    "department": {
+      "id": 121,
+      "title": "Chemical Engineering",
+      "abbreviation": "CHED",
+      "imageurl": "ched.png"
+    },
+    "code": "CHN-322"
+  },
+  {
+    "id": 1371,
+    "title": "Process Integration",
+    "department": {
+      "id": 121,
+      "title": "Chemical Engineering",
+      "abbreviation": "CHED",
+      "imageurl": "ched.png"
+    },
+    "code": "CHN-325"
+  },
+  {
+    "id": 1372,
+    "title": "Technical Communication",
+    "department": {
+      "id": 121,
+      "title": "Chemical Engineering",
+      "abbreviation": "CHED",
+      "imageurl": "ched.png"
+    },
+    "code": "CHN-391"
+  },
+  {
+    "id": 1373,
+    "title": "B.Tech. Project ",
+    "department": {
+      "id": 121,
+      "title": "Chemical Engineering",
+      "abbreviation": "CHED",
+      "imageurl": "ched.png"
+    },
+    "code": "CHN-400A"
+  },
+  {
+    "id": 1374,
+    "title": "Training Seminar",
+    "department": {
+      "id": 121,
+      "title": "Chemical Engineering",
+      "abbreviation": "CHED",
+      "imageurl": "ched.png"
+    },
+    "code": "CHN-499"
+  },
+  {
+    "id": 1375,
+    "title": "SEMINAR",
+    "department": {
+      "id": 121,
+      "title": "Chemical Engineering",
+      "abbreviation": "CHED",
+      "imageurl": "ched.png"
+    },
+    "code": "CHN-700"
+  },
+  {
+    "id": 1376,
+    "title": "DISSERTATION STAGE-I (TO BE CONTINUED NEXT SEMESTER)",
+    "department": {
+      "id": 121,
+      "title": "Chemical Engineering",
+      "abbreviation": "CHED",
+      "imageurl": "ched.png"
+    },
+    "code": "CHN-701A"
+  },
+  {
+    "id": 1377,
+    "title": "Water Supply Engineering",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CE-104"
+  },
+  {
+    "id": 1378,
+    "title": "Introduction to Civil Engineering",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CEN-101"
+  },
+  {
+    "id": 1379,
+    "title": "Solid Mechanics",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CEN-102"
+  },
+  {
+    "id": 1380,
+    "title": "Numerical Methods and Computer Programming",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CEN-103"
+  },
+  {
+    "id": 1381,
+    "title": "Introduction to Environmental Studies",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CEN-105"
+  },
+  {
+    "id": 1382,
+    "title": "Geomatics Engineering – I",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CEN-106"
+  },
+  {
+    "id": 1383,
+    "title": "Waste Water Engineering",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CEN-202"
+  },
+  {
+    "id": 1384,
+    "title": "Highway and Traffic Engineering",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CEN-210"
+  },
+  {
+    "id": 1385,
+    "title": "Design of Steel Elements",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CEN-305"
+  },
+  {
+    "id": 1386,
+    "title": "Railway Engineering and Airport Planning",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CEN-307"
+  },
+  {
+    "id": 1387,
+    "title": "Wastewater Treatment",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CEN-503"
+  },
+  {
+    "id": 1388,
+    "title": "Environmental Chemistry",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CEN-504"
+  },
+  {
+    "id": 1389,
+    "title": "Remote Sensing and  Image Processing",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CEN-513"
+  },
+  {
+    "id": 1390,
+    "title": "Geodesy and GPS Surveying",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CEN-514"
+  },
+  {
+    "id": 1391,
+    "title": "Matrix Structural Analysis",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CEN-541"
+  },
+  {
+    "id": 1392,
+    "title": "Continuum Mechanics",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CEN-542"
+  },
+  {
+    "id": 1393,
+    "title": "Advanced Concrete Design",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CEN-543"
+  },
+  {
+    "id": 1394,
+    "title": "Structural Dynamics",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CEN-544"
+  },
+  {
+    "id": 1395,
+    "title": "Finite Element Analysis",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CEN-545"
+  },
+  {
+    "id": 1396,
+    "title": "Geometric Design",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CEN-564"
+  },
+  {
+    "id": 1397,
+    "title": "Industrial and Hazardous Waste Management",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CEN-603"
+  },
+  {
+    "id": 1398,
+    "title": "Behaviour & Design of Steel Structures (Autumn)",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CEN-641"
+  },
+  {
+    "id": 1399,
+    "title": "Road Traffic Safety",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CEN-665"
+  },
+  {
+    "id": 1400,
+    "title": "Transportation Planning",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CEN-669"
+  },
+  {
+    "id": 1401,
+    "title": "Urban Mass Transit Systems",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CE-664"
+  },
+  {
+    "id": 1402,
+    "title": "GEOMATICS ENGINEERING-II",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CEN-203"
+  },
+  {
+    "id": 1403,
+    "title": "CHANNEL HYDRAULICS",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CEN-205"
+  },
+  {
+    "id": 1404,
+    "title": "STRUCTURAL ANALYSIS-I",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CEN-207"
+  },
+  {
+    "id": 1405,
+    "title": "ENGINEERING GRAPHICS",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CEN-291"
+  },
+  {
+    "id": 1406,
+    "title": "Theory of Structures",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CEN-292"
+  },
+  {
+    "id": 1407,
+    "title": "Soil Mechanicas",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CEN-303"
+  },
+  {
+    "id": 1408,
+    "title": "Design of Reinforced Concrete Elements",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CEN-381"
+  },
+  {
+    "id": 1409,
+    "title": "Technical Communication",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CEN-391"
+  },
+  {
+    "id": 1410,
+    "title": "Design of Steel Elements",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CEN-392"
+  },
+  {
+    "id": 1411,
+    "title": "B.Tech. Project ",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CEN-400A"
+  },
+  {
+    "id": 1412,
+    "title": "WATER RESOURCE ENGINEERING",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CEN-412"
+  },
+  {
+    "id": 1413,
+    "title": "Advanced Water and Wastewater Treatment",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CEN-421"
+  },
+  {
+    "id": 1414,
+    "title": "Advanced Highway Engineering",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CEN-431"
+  },
+  {
+    "id": 1415,
+    "title": "Training Seminar",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CEN-499"
+  },
+  {
+    "id": 1416,
+    "title": "Environmental Modeling and Simulation",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CEN-501"
+  },
+  {
+    "id": 1417,
+    "title": "Water Treatment",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CEN-502"
+  },
+  {
+    "id": 1418,
+    "title": "Environmental Hydraulics",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CEN-505"
+  },
+  {
+    "id": 1419,
+    "title": "Surveying Measurements and Adjustments",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CEN-511"
+  },
+  {
+    "id": 1420,
+    "title": "Principles of Photogrammetry",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CEN-512"
+  },
+  {
+    "id": 1421,
+    "title": "FIELD SURVEY CAMP",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CEN-515"
+  },
+  {
+    "id": 1422,
+    "title": "Advanced Numerical Analysis",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CEN-521"
+  },
+  {
+    "id": 1423,
+    "title": "Advanced Soil Mechanics",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CEN-522"
+  },
+  {
+    "id": 1424,
+    "title": "Engineering Behaviour of Rocks",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CEN-523"
+  },
+  {
+    "id": 1425,
+    "title": "Soil Dynamics and Machine Foundations",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CEN-524"
+  },
+  {
+    "id": 1426,
+    "title": "Advanced Hydrology",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CEN-531"
+  },
+  {
+    "id": 1427,
+    "title": "Advanced Fluid Mechanics",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CEN-532"
+  },
+  {
+    "id": 1428,
+    "title": "Free Surface Flows",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CEN-533"
+  },
+  {
+    "id": 1429,
+    "title": "Modeling, Simulation and Optimization",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CEN-534"
+  },
+  {
+    "id": 1648,
+    "title": "Complex Analysis",
+    "department": {
+      "id": 132,
+      "title": "Mathematics",
+      "abbreviation": "MAD",
+      "imageurl": "mad.png"
+    },
+    "code": "MAN-520"
+  },
+  {
+    "id": 1430,
+    "title": "Traffic Engineering and Modeling",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CEN-561"
+  },
+  {
+    "id": 1431,
+    "title": "Pavement Analysis and Design",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CEN-562"
+  },
+  {
+    "id": 1432,
+    "title": "Planning, Design and Construction of Rural Roads",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CEN-563"
+  },
+  {
+    "id": 1433,
+    "title": "Geoinformatics for Landuse  Surveys",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CEN-616"
+  },
+  {
+    "id": 1434,
+    "title": "SEMINAR",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CEN-700"
+  },
+  {
+    "id": 1435,
+    "title": "DISSERTATION STAGE-I (TO BE CONTINUED NEXT SEMESTER)",
+    "department": {
+      "id": 123,
+      "title": "Civil Engineering",
+      "abbreviation": "CED",
+      "imageurl": "ced.png"
+    },
+    "code": "CEN-701A"
+  },
+  {
+    "id": 1436,
+    "title": "Data Structures",
+    "department": {
+      "id": 124,
+      "title": "Computer Science and Engineering",
+      "abbreviation": "CSED",
+      "imageurl": "csed.png"
+    },
+    "code": "CSN-102"
+  },
+  {
+    "id": 1437,
+    "title": "OBJECT ORIENTED ANALYSIS AND DESIGN",
+    "department": {
+      "id": 124,
+      "title": "Computer Science and Engineering",
+      "abbreviation": "CSED",
+      "imageurl": "csed.png"
+    },
+    "code": "CSN-291"
+  },
+  {
+    "id": 1438,
+    "title": "Data Base Management Systems",
+    "department": {
+      "id": 124,
+      "title": "Computer Science and Engineering",
+      "abbreviation": "CSED",
+      "imageurl": "csed.png"
+    },
+    "code": "CSN-351"
+  },
+  {
+    "id": 1439,
+    "title": "Compiler Design ",
+    "department": {
+      "id": 124,
+      "title": "Computer Science and Engineering",
+      "abbreviation": "CSED",
+      "imageurl": "csed.png"
+    },
+    "code": "CSN-352"
+  },
+  {
+    "id": 1440,
+    "title": "ARTIFICIAL INTELLIGENCE",
+    "department": {
+      "id": 124,
+      "title": "Computer Science and Engineering",
+      "abbreviation": "CSED",
+      "imageurl": "csed.png"
+    },
+    "code": "CSN-371"
+  },
+  {
+    "id": 1441,
+    "title": "MACHINE LEARNING",
+    "department": {
+      "id": 124,
+      "title": "Computer Science and Engineering",
+      "abbreviation": "CSED",
+      "imageurl": "csed.png"
+    },
+    "code": "CSN-382"
+  },
+  {
+    "id": 1442,
+    "title": "Data Mining and Warehousing",
+    "department": {
+      "id": 124,
+      "title": "Computer Science and Engineering",
+      "abbreviation": "CSED",
+      "imageurl": "csed.png"
+    },
+    "code": "CSN-515"
+  },
+  {
+    "id": 1443,
+    "title": "Logic and Automated Reasoning",
+    "department": {
+      "id": 124,
+      "title": "Computer Science and Engineering",
+      "abbreviation": "CSED",
+      "imageurl": "csed.png"
+    },
+    "code": "CSN-518"
+  },
+  {
+    "id": 1444,
+    "title": "Introduction to Computer Science and Engineering",
+    "department": {
+      "id": 124,
+      "title": "Computer Science and Engineering",
+      "abbreviation": "CSED",
+      "imageurl": "csed.png"
+    },
+    "code": "CSN-101"
+  },
+  {
+    "id": 1445,
+    "title": "Fundamentals of Object Oriented Programming",
+    "department": {
+      "id": 124,
+      "title": "Computer Science and Engineering",
+      "abbreviation": "CSED",
+      "imageurl": "csed.png"
+    },
+    "code": "CSN-103"
+  },
+  {
+    "id": 1446,
+    "title": "COMPUTER ARCHITECTURE AND MICROPROCESSORS",
+    "department": {
+      "id": 124,
+      "title": "Computer Science and Engineering",
+      "abbreviation": "CSED",
+      "imageurl": "csed.png"
+    },
+    "code": "CSN-221"
+  },
+  {
+    "id": 1447,
+    "title": "DATA STRUCTURE LABORATORY",
+    "department": {
+      "id": 124,
+      "title": "Computer Science and Engineering",
+      "abbreviation": "CSED",
+      "imageurl": "csed.png"
+    },
+    "code": "CSN-261"
+  },
+  {
+    "id": 1448,
+    "title": "Computer Network",
+    "department": {
+      "id": 124,
+      "title": "Computer Science and Engineering",
+      "abbreviation": "CSED",
+      "imageurl": "csed.png"
+    },
+    "code": "CSN-341"
+  },
+  {
+    "id": 1449,
+    "title": "Theory of Computation",
+    "department": {
+      "id": 124,
+      "title": "Computer Science and Engineering",
+      "abbreviation": "CSED",
+      "imageurl": "csed.png"
+    },
+    "code": "CSN-353"
+  },
+  {
+    "id": 1450,
+    "title": "Computer Network Laboratory",
+    "department": {
+      "id": 124,
+      "title": "Computer Science and Engineering",
+      "abbreviation": "CSED",
+      "imageurl": "csed.png"
+    },
+    "code": "CSN-361"
+  },
+  {
+    "id": 1451,
+    "title": "Technical Communication",
+    "department": {
+      "id": 124,
+      "title": "Computer Science and Engineering",
+      "abbreviation": "CSED",
+      "imageurl": "csed.png"
+    },
+    "code": "CSN-391"
+  },
+  {
+    "id": 1452,
+    "title": "B.Tech. Project ",
+    "department": {
+      "id": 124,
+      "title": "Computer Science and Engineering",
+      "abbreviation": "CSED",
+      "imageurl": "csed.png"
+    },
+    "code": "CSN-400A"
+  },
+  {
+    "id": 1453,
+    "title": "Training Seminar",
+    "department": {
+      "id": 124,
+      "title": "Computer Science and Engineering",
+      "abbreviation": "CSED",
+      "imageurl": "csed.png"
+    },
+    "code": "CSN-499"
+  },
+  {
+    "id": 1454,
+    "title": "Advanced Algorithms",
+    "department": {
+      "id": 124,
+      "title": "Computer Science and Engineering",
+      "abbreviation": "CSED",
+      "imageurl": "csed.png"
+    },
+    "code": "CSN-501"
+  },
+  {
+    "id": 1455,
+    "title": "Advanced Operating Systems",
+    "department": {
+      "id": 124,
+      "title": "Computer Science and Engineering",
+      "abbreviation": "CSED",
+      "imageurl": "csed.png"
+    },
+    "code": "CSN-502"
+  },
+  {
+    "id": 1456,
+    "title": "Advanced Computer Networks",
+    "department": {
+      "id": 124,
+      "title": "Computer Science and Engineering",
+      "abbreviation": "CSED",
+      "imageurl": "csed.png"
+    },
+    "code": "CSN-503"
+  },
+  {
+    "id": 1457,
+    "title": "Lab I (Programming Lab)",
+    "department": {
+      "id": 124,
+      "title": "Computer Science and Engineering",
+      "abbreviation": "CSED",
+      "imageurl": "csed.png"
+    },
+    "code": "CSN-504"
+  },
+  {
+    "id": 1458,
+    "title": "Lab II (Project Lab)",
+    "department": {
+      "id": 124,
+      "title": "Computer Science and Engineering",
+      "abbreviation": "CSED",
+      "imageurl": "csed.png"
+    },
+    "code": "CSN-505"
+  },
+  {
+    "id": 1459,
+    "title": "Advanced Topics in Software Engineering",
+    "department": {
+      "id": 124,
+      "title": "Computer Science and Engineering",
+      "abbreviation": "CSED",
+      "imageurl": "csed.png"
+    },
+    "code": "CSN-517"
+  },
+  {
+    "id": 1460,
+    "title": "SEMINAR",
+    "department": {
+      "id": 124,
+      "title": "Computer Science and Engineering",
+      "abbreviation": "CSED",
+      "imageurl": "csed.png"
+    },
+    "code": "CSN-700"
+  },
+  {
+    "id": 1461,
+    "title": "DISSERTATION STAGE-I (TO BE CONTINUED NEXT SEMESTER)",
+    "department": {
+      "id": 124,
+      "title": "Computer Science and Engineering",
+      "abbreviation": "CSED",
+      "imageurl": "csed.png"
+    },
+    "code": "CSN-701A"
+  },
+  {
+    "id": 1462,
+    "title": "Theory of Vibrations",
+    "department": {
+      "id": 125,
+      "title": "Earthquake",
+      "abbreviation": "EQD",
+      "imageurl": "eqd.png"
+    },
+    "code": "EQN-501"
+  },
+  {
+    "id": 1463,
+    "title": "Vibration of Elastic Media",
+    "department": {
+      "id": 125,
+      "title": "Earthquake",
+      "abbreviation": "EQD",
+      "imageurl": "eqd.png"
+    },
+    "code": "EQN-502"
+  },
+  {
+    "id": 1464,
+    "title": "Engineering Seismology",
+    "department": {
+      "id": 125,
+      "title": "Earthquake",
+      "abbreviation": "EQD",
+      "imageurl": "eqd.png"
+    },
+    "code": "EQN-503"
+  },
+  {
+    "id": 1465,
+    "title": "Finite Element Method",
+    "department": {
+      "id": 125,
+      "title": "Earthquake",
+      "abbreviation": "EQD",
+      "imageurl": "eqd.png"
+    },
+    "code": "EQN-504"
+  },
+  {
+    "id": 1466,
+    "title": "Numerical Methods for Dynamic Systems",
+    "department": {
+      "id": 125,
+      "title": "Earthquake",
+      "abbreviation": "EQD",
+      "imageurl": "eqd.png"
+    },
+    "code": "EQN-513"
+  },
+  {
+    "id": 1467,
+    "title": "Geotechnical Earthquake Engineering",
+    "department": {
+      "id": 125,
+      "title": "Earthquake",
+      "abbreviation": "EQD",
+      "imageurl": "eqd.png"
+    },
+    "code": "EQN-521"
+  },
+  {
+    "id": 1468,
+    "title": "Seismic Hazard Assessment",
+    "department": {
+      "id": 125,
+      "title": "Earthquake",
+      "abbreviation": "EQD",
+      "imageurl": "eqd.png"
+    },
+    "code": "EQN-525"
+  },
+  {
+    "id": 1691,
+    "title": "Seminar",
+    "department": {
+      "id": 132,
+      "title": "Mathematics",
+      "abbreviation": "MAD",
+      "imageurl": "mad.png"
+    },
+    "code": "MAN-699"
+  },
+  {
+    "id": 1469,
+    "title": "Seismological Modeling and Simulation",
+    "department": {
+      "id": 125,
+      "title": "Earthquake",
+      "abbreviation": "EQD",
+      "imageurl": "eqd.png"
+    },
+    "code": "EQN-531"
+  },
+  {
+    "id": 1470,
+    "title": "Vulnerability and Risk Analysis",
+    "department": {
+      "id": 125,
+      "title": "Earthquake",
+      "abbreviation": "EQD",
+      "imageurl": "eqd.png"
+    },
+    "code": "EQN-532"
+  },
+  {
+    "id": 1471,
+    "title": "Earthquake Resistant Design of Structures",
+    "department": {
+      "id": 125,
+      "title": "Earthquake",
+      "abbreviation": "EQD",
+      "imageurl": "eqd.png"
+    },
+    "code": "EQN-563"
+  },
+  {
+    "id": 1472,
+    "title": "Machine Foundation",
+    "department": {
+      "id": 125,
+      "title": "Earthquake",
+      "abbreviation": "EQD",
+      "imageurl": "eqd.png"
+    },
+    "code": "EQN-572"
+  },
+  {
+    "id": 1473,
+    "title": "Principles of Seismology",
+    "department": {
+      "id": 125,
+      "title": "Earthquake",
+      "abbreviation": "EQD",
+      "imageurl": "eqd.png"
+    },
+    "code": "EQN-598"
+  },
+  {
+    "id": 1474,
+    "title": "SEMINAR",
+    "department": {
+      "id": 125,
+      "title": "Earthquake",
+      "abbreviation": "EQD",
+      "imageurl": "eqd.png"
+    },
+    "code": "EQN-700"
+  },
+  {
+    "id": 1475,
+    "title": "DISSERTATION STAGE-I (TO BE CONTINUED NEXT SEMESTER)",
+    "department": {
+      "id": 125,
+      "title": "Earthquake",
+      "abbreviation": "EQD",
+      "imageurl": "eqd.png"
+    },
+    "code": "EQN-701A"
+  },
+  {
+    "id": 1476,
+    "title": "Electrical Prospecting",
+    "department": {
+      "id": 126,
+      "title": "Earth Sciences",
+      "abbreviation": "ESD",
+      "imageurl": "esd.png"
+    },
+    "code": "ESN-323"
+  },
+  {
+    "id": 1477,
+    "title": "Introduction to Earth Sciences",
+    "department": {
+      "id": 126,
+      "title": "Earth Sciences",
+      "abbreviation": "ESD",
+      "imageurl": "esd.png"
+    },
+    "code": "ESN-101"
+  },
+  {
+    "id": 1478,
+    "title": "Computer Programming",
+    "department": {
+      "id": 126,
+      "title": "Earth Sciences",
+      "abbreviation": "ESD",
+      "imageurl": "esd.png"
+    },
+    "code": "ESN-103"
+  },
+  {
+    "id": 1479,
+    "title": "BASIC PETROLOGY",
+    "department": {
+      "id": 126,
+      "title": "Earth Sciences",
+      "abbreviation": "ESD",
+      "imageurl": "esd.png"
+    },
+    "code": "ESN-201"
+  },
+  {
+    "id": 1480,
+    "title": "PALEONTOLOGY",
+    "department": {
+      "id": 126,
+      "title": "Earth Sciences",
+      "abbreviation": "ESD",
+      "imageurl": "esd.png"
+    },
+    "code": "ESN-203"
+  },
+  {
+    "id": 1481,
+    "title": "STRUCTURAL GEOLOGY-I",
+    "department": {
+      "id": 126,
+      "title": "Earth Sciences",
+      "abbreviation": "ESD",
+      "imageurl": "esd.png"
+    },
+    "code": "ESN-205"
+  },
+  {
+    "id": 1482,
+    "title": "FIELD THEORY",
+    "department": {
+      "id": 126,
+      "title": "Earth Sciences",
+      "abbreviation": "ESD",
+      "imageurl": "esd.png"
+    },
+    "code": "ESN-221"
+  },
+  {
+    "id": 1483,
+    "title": "GEOPHYSICAL PROSPECTING",
+    "department": {
+      "id": 126,
+      "title": "Earth Sciences",
+      "abbreviation": "ESD",
+      "imageurl": "esd.png"
+    },
+    "code": "ESN-223"
+  },
+  {
+    "id": 1484,
+    "title": "Structural Geology-II",
+    "department": {
+      "id": 126,
+      "title": "Earth Sciences",
+      "abbreviation": "ESD",
+      "imageurl": "esd.png"
+    },
+    "code": "ESN-301"
+  },
+  {
+    "id": 1485,
+    "title": "Metamorphic Petrology",
+    "department": {
+      "id": 126,
+      "title": "Earth Sciences",
+      "abbreviation": "ESD",
+      "imageurl": "esd.png"
+    },
+    "code": "ESN-303"
+  },
+  {
+    "id": 1486,
+    "title": "Economic Geology",
+    "department": {
+      "id": 126,
+      "title": "Earth Sciences",
+      "abbreviation": "ESD",
+      "imageurl": "esd.png"
+    },
+    "code": "ESN-305"
+  },
+  {
+    "id": 1487,
+    "title": "Gravity and Magnetic Prospecting",
+    "department": {
+      "id": 126,
+      "title": "Earth Sciences",
+      "abbreviation": "ESD",
+      "imageurl": "esd.png"
+    },
+    "code": "ESN-321"
+  },
+  {
+    "id": 1488,
+    "title": "Seismology",
+    "department": {
+      "id": 126,
+      "title": "Earth Sciences",
+      "abbreviation": "ESD",
+      "imageurl": "esd.png"
+    },
+    "code": "ESN-325"
+  },
+  {
+    "id": 1489,
+    "title": "ROCK AND SOIL MECHANICS",
+    "department": {
+      "id": 126,
+      "title": "Earth Sciences",
+      "abbreviation": "ESD",
+      "imageurl": "esd.png"
+    },
+    "code": "ESN-345"
+  },
+  {
+    "id": 1490,
+    "title": "Technical Communication",
+    "department": {
+      "id": 126,
+      "title": "Earth Sciences",
+      "abbreviation": "ESD",
+      "imageurl": "esd.png"
+    },
+    "code": "ESN-391"
+  },
+  {
+    "id": 1491,
+    "title": "PRINCIPLES OF REMOTE SENSING",
+    "department": {
+      "id": 126,
+      "title": "Earth Sciences",
+      "abbreviation": "ESD",
+      "imageurl": "esd.png"
+    },
+    "code": "ESN-401"
+  },
+  {
+    "id": 1492,
+    "title": "PRINCIPLES OF GIS",
+    "department": {
+      "id": 126,
+      "title": "Earth Sciences",
+      "abbreviation": "ESD",
+      "imageurl": "esd.png"
+    },
+    "code": "ESN-403"
+  },
+  {
+    "id": 1493,
+    "title": "ENGINEERING GEOLOGY",
+    "department": {
+      "id": 126,
+      "title": "Earth Sciences",
+      "abbreviation": "ESD",
+      "imageurl": "esd.png"
+    },
+    "code": "ESN-405"
+  },
+  {
+    "id": 1494,
+    "title": "HYDROGEOLOGY",
+    "department": {
+      "id": 126,
+      "title": "Earth Sciences",
+      "abbreviation": "ESD",
+      "imageurl": "esd.png"
+    },
+    "code": "ESN-407"
+  },
+  {
+    "id": 1495,
+    "title": "PETROLEUM GEOLOGY",
+    "department": {
+      "id": 126,
+      "title": "Earth Sciences",
+      "abbreviation": "ESD",
+      "imageurl": "esd.png"
+    },
+    "code": "ESN-409"
+  },
+  {
+    "id": 1496,
+    "title": "Numerical Modelling in Geophysical ",
+    "department": {
+      "id": 126,
+      "title": "Earth Sciences",
+      "abbreviation": "ESD",
+      "imageurl": "esd.png"
+    },
+    "code": "ESN-421"
+  },
+  {
+    "id": 1497,
+    "title": "Geophysical Well logging",
+    "department": {
+      "id": 126,
+      "title": "Earth Sciences",
+      "abbreviation": "ESD",
+      "imageurl": "esd.png"
+    },
+    "code": "ESN-423"
+  },
+  {
+    "id": 1498,
+    "title": "STRONG MOTION SEISMOGRAPH",
+    "department": {
+      "id": 126,
+      "title": "Earth Sciences",
+      "abbreviation": "ESD",
+      "imageurl": "esd.png"
+    },
+    "code": "ESN-477"
+  },
+  {
+    "id": 1499,
+    "title": "Seminar-I",
+    "department": {
+      "id": 126,
+      "title": "Earth Sciences",
+      "abbreviation": "ESD",
+      "imageurl": "esd.png"
+    },
+    "code": "ESN-499"
+  },
+  {
+    "id": 1500,
+    "title": "Comprehensive Viva Voce",
+    "department": {
+      "id": 126,
+      "title": "Earth Sciences",
+      "abbreviation": "ESD",
+      "imageurl": "esd.png"
+    },
+    "code": "ESN-509"
+  },
+  {
+    "id": 1501,
+    "title": "Numerical Techniques and Computer Programming",
+    "department": {
+      "id": 126,
+      "title": "Earth Sciences",
+      "abbreviation": "ESD",
+      "imageurl": "esd.png"
+    },
+    "code": "ESN-510"
+  },
+  {
+    "id": 1502,
+    "title": "Crystallography and Mineralogy",
+    "department": {
+      "id": 126,
+      "title": "Earth Sciences",
+      "abbreviation": "ESD",
+      "imageurl": "esd.png"
+    },
+    "code": "ESN-511"
+  },
+  {
+    "id": 1503,
+    "title": "Geochemistry",
+    "department": {
+      "id": 126,
+      "title": "Earth Sciences",
+      "abbreviation": "ESD",
+      "imageurl": "esd.png"
+    },
+    "code": "ESN-512"
+  },
+  {
+    "id": 1504,
+    "title": "Igneous Petrology",
+    "department": {
+      "id": 126,
+      "title": "Earth Sciences",
+      "abbreviation": "ESD",
+      "imageurl": "esd.png"
+    },
+    "code": "ESN-513"
+  },
+  {
+    "id": 1505,
+    "title": "Structural Geology",
+    "department": {
+      "id": 126,
+      "title": "Earth Sciences",
+      "abbreviation": "ESD",
+      "imageurl": "esd.png"
+    },
+    "code": "ESN-514"
+  },
+  {
+    "id": 1506,
+    "title": "Comprehensive Viva Voce",
+    "department": {
+      "id": 126,
+      "title": "Earth Sciences",
+      "abbreviation": "ESD",
+      "imageurl": "esd.png"
+    },
+    "code": "ESN-529"
+  },
+  {
+    "id": 1507,
+    "title": "Sedimentology and Stratigraphy",
+    "department": {
+      "id": 126,
+      "title": "Earth Sciences",
+      "abbreviation": "ESD",
+      "imageurl": "esd.png"
+    },
+    "code": "ESN-531"
+  },
+  {
+    "id": 1508,
+    "title": "Geophysical Prospecting",
+    "department": {
+      "id": 126,
+      "title": "Earth Sciences",
+      "abbreviation": "ESD",
+      "imageurl": "esd.png"
+    },
+    "code": "ESN-532"
+  },
+  {
+    "id": 1509,
+    "title": "ISOTOPE GEOLOGY",
+    "department": {
+      "id": 126,
+      "title": "Earth Sciences",
+      "abbreviation": "ESD",
+      "imageurl": "esd.png"
+    },
+    "code": "ESN-547"
+  },
+  {
+    "id": 1510,
+    "title": "Micropaleontology and Paleoceanography",
+    "department": {
+      "id": 126,
+      "title": "Earth Sciences",
+      "abbreviation": "ESD",
+      "imageurl": "esd.png"
+    },
+    "code": "ESN-551"
+  },
+  {
+    "id": 1511,
+    "title": "Global Environment",
+    "department": {
+      "id": 126,
+      "title": "Earth Sciences",
+      "abbreviation": "ESD",
+      "imageurl": "esd.png"
+    },
+    "code": "ESN-553"
+  },
+  {
+    "id": 1512,
+    "title": "DYNAMIC SYSTEMS IN EARTH SCIENCES",
+    "department": {
+      "id": 126,
+      "title": "Earth Sciences",
+      "abbreviation": "ESD",
+      "imageurl": "esd.png"
+    },
+    "code": "ESN-579"
+  },
+  {
+    "id": 1513,
+    "title": "ADVANCED SEISMIC PROSPECTING",
+    "department": {
+      "id": 126,
+      "title": "Earth Sciences",
+      "abbreviation": "ESD",
+      "imageurl": "esd.png"
+    },
+    "code": "ESN-581"
+  },
+  {
+    "id": 1514,
+    "title": "Seminar",
+    "department": {
+      "id": 126,
+      "title": "Earth Sciences",
+      "abbreviation": "ESD",
+      "imageurl": "esd.png"
+    },
+    "code": "ESN-599"
+  },
+  {
+    "id": 1515,
+    "title": "Isotope Geology",
+    "department": {
+      "id": 126,
+      "title": "Earth Sciences",
+      "abbreviation": "ESD",
+      "imageurl": "esd.png"
+    },
+    "code": "ESN-603"
+  },
+  {
+    "id": 1516,
+    "title": "Indian Mineral Deposits",
+    "department": {
+      "id": 126,
+      "title": "Earth Sciences",
+      "abbreviation": "ESD",
+      "imageurl": "esd.png"
+    },
+    "code": "ESN-606"
+  },
+  {
+    "id": 1517,
+    "title": "Engineering Geology",
+    "department": {
+      "id": 126,
+      "title": "Earth Sciences",
+      "abbreviation": "ESD",
+      "imageurl": "esd.png"
+    },
+    "code": "ESN-607"
+  },
+  {
+    "id": 1518,
+    "title": "Petroleum Geology",
+    "department": {
+      "id": 126,
+      "title": "Earth Sciences",
+      "abbreviation": "ESD",
+      "imageurl": "esd.png"
+    },
+    "code": "ESN-609"
+  },
+  {
+    "id": 1519,
+    "title": "Well Logging",
+    "department": {
+      "id": 126,
+      "title": "Earth Sciences",
+      "abbreviation": "ESD",
+      "imageurl": "esd.png"
+    },
+    "code": "ESN-610"
+  },
+  {
+    "id": 1520,
+    "title": "Plate Tectonics",
+    "department": {
+      "id": 126,
+      "title": "Earth Sciences",
+      "abbreviation": "ESD",
+      "imageurl": "esd.png"
+    },
+    "code": "ESN-611"
+  },
+  {
+    "id": 1521,
+    "title": "SEMINAR",
+    "department": {
+      "id": 126,
+      "title": "Earth Sciences",
+      "abbreviation": "ESD",
+      "imageurl": "esd.png"
+    },
+    "code": "ESN-700"
+  },
+  {
+    "id": 1522,
+    "title": "Electrical Science",
+    "department": {
+      "id": 127,
+      "title": "Electrical Engineering",
+      "abbreviation": "EED",
+      "imageurl": "eed.png"
+    },
+    "code": "EEN-112"
+  },
+  {
+    "id": 1523,
+    "title": "Instrumentation laboratory",
+    "department": {
+      "id": 127,
+      "title": "Electrical Engineering",
+      "abbreviation": "EED",
+      "imageurl": "eed.png"
+    },
+    "code": "EEN-523"
+  },
+  {
+    "id": 1524,
+    "title": "Introduction to Electrical Engineering",
+    "department": {
+      "id": 127,
+      "title": "Electrical Engineering",
+      "abbreviation": "EED",
+      "imageurl": "eed.png"
+    },
+    "code": "EEN-101"
+  },
+  {
+    "id": 1525,
+    "title": "Network Theory",
+    "department": {
+      "id": 127,
+      "title": "Electrical Engineering",
+      "abbreviation": "EED",
+      "imageurl": "eed.png"
+    },
+    "code": "EEN-102"
+  },
+  {
+    "id": 1526,
+    "title": "Programming in C++",
+    "department": {
+      "id": 127,
+      "title": "Electrical Engineering",
+      "abbreviation": "EED",
+      "imageurl": "eed.png"
+    },
+    "code": "EEN-103"
+  },
+  {
+    "id": 1527,
+    "title": "ELECTRICAL MACHINES-I",
+    "department": {
+      "id": 127,
+      "title": "Electrical Engineering",
+      "abbreviation": "EED",
+      "imageurl": "eed.png"
+    },
+    "code": "EEN-201"
+  },
+  {
+    "id": 1528,
+    "title": "DIGITAL ELECTRONICS AND CIRCUITS",
+    "department": {
+      "id": 127,
+      "title": "Electrical Engineering",
+      "abbreviation": "EED",
+      "imageurl": "eed.png"
+    },
+    "code": "EEN-203"
+  },
+  {
+    "id": 1529,
+    "title": "DESIGN OF ELECTRONICS CIRCUITS",
+    "department": {
+      "id": 127,
+      "title": "Electrical Engineering",
+      "abbreviation": "EED",
+      "imageurl": "eed.png"
+    },
+    "code": "EEN-205"
+  },
+  {
+    "id": 1530,
+    "title": "ENGINEERING ANALYSIS AND DESIGN",
+    "department": {
+      "id": 127,
+      "title": "Electrical Engineering",
+      "abbreviation": "EED",
+      "imageurl": "eed.png"
+    },
+    "code": "EEN-291"
+  },
+  {
+    "id": 1531,
+    "title": "Power System Analysis & Control",
+    "department": {
+      "id": 127,
+      "title": "Electrical Engineering",
+      "abbreviation": "EED",
+      "imageurl": "eed.png"
+    },
+    "code": "EEN-301"
+  },
+  {
+    "id": 1532,
+    "title": "Power Electronics",
+    "department": {
+      "id": 127,
+      "title": "Electrical Engineering",
+      "abbreviation": "EED",
+      "imageurl": "eed.png"
+    },
+    "code": "EEN-303"
+  },
+  {
+    "id": 1533,
+    "title": "Advanced Control Systems",
+    "department": {
+      "id": 127,
+      "title": "Electrical Engineering",
+      "abbreviation": "EED",
+      "imageurl": "eed.png"
+    },
+    "code": "EEN-305"
+  },
+  {
+    "id": 1534,
+    "title": "Artificial Neural Networks ",
+    "department": {
+      "id": 127,
+      "title": "Electrical Engineering",
+      "abbreviation": "EED",
+      "imageurl": "eed.png"
+    },
+    "code": "EEN-351"
+  },
+  {
+    "id": 1535,
+    "title": "Signals and Systems",
+    "department": {
+      "id": 127,
+      "title": "Electrical Engineering",
+      "abbreviation": "EED",
+      "imageurl": "eed.png"
+    },
+    "code": "EEN-356"
+  },
+  {
+    "id": 1536,
+    "title": "Data Structures",
+    "department": {
+      "id": 127,
+      "title": "Electrical Engineering",
+      "abbreviation": "EED",
+      "imageurl": "eed.png"
+    },
+    "code": "EEN-358"
+  },
+  {
+    "id": 1537,
+    "title": "Embedded Systems",
+    "department": {
+      "id": 127,
+      "title": "Electrical Engineering",
+      "abbreviation": "EED",
+      "imageurl": "eed.png"
+    },
+    "code": "EEN-360"
+  },
+  {
+    "id": 1538,
+    "title": "Technical Communication",
+    "department": {
+      "id": 127,
+      "title": "Electrical Engineering",
+      "abbreviation": "EED",
+      "imageurl": "eed.png"
+    },
+    "code": "EEN-391"
+  },
+  {
+    "id": 1539,
+    "title": "B.Tech. Project ",
+    "department": {
+      "id": 127,
+      "title": "Electrical Engineering",
+      "abbreviation": "EED",
+      "imageurl": "eed.png"
+    },
+    "code": "EEN-400A"
+  },
+  {
+    "id": 1540,
+    "title": "Training Seminar",
+    "department": {
+      "id": 127,
+      "title": "Electrical Engineering",
+      "abbreviation": "EED",
+      "imageurl": "eed.png"
+    },
+    "code": "EEN-499"
+  },
+  {
+    "id": 1761,
+    "title": "Packaging Materials",
+    "department": {
+      "id": 136,
+      "title": "Polymer and Process Engineering",
+      "abbreviation": "PPED",
+      "imageurl": "pped.png"
+    },
+    "code": "PPN-543"
+  },
+  {
+    "id": 1541,
+    "title": "Advanced Industrial and Electronic Instrumentation",
+    "department": {
+      "id": 127,
+      "title": "Electrical Engineering",
+      "abbreviation": "EED",
+      "imageurl": "eed.png"
+    },
+    "code": "EEN-520"
+  },
+  {
+    "id": 1542,
+    "title": "Digital Signal and Image Processing",
+    "department": {
+      "id": 127,
+      "title": "Electrical Engineering",
+      "abbreviation": "EED",
+      "imageurl": "eed.png"
+    },
+    "code": "EEN-521"
+  },
+  {
+    "id": 1543,
+    "title": "Biomedical Instrumentation",
+    "department": {
+      "id": 127,
+      "title": "Electrical Engineering",
+      "abbreviation": "EED",
+      "imageurl": "eed.png"
+    },
+    "code": "EEN-522"
+  },
+  {
+    "id": 1544,
+    "title": "Advanced Power Electronics",
+    "department": {
+      "id": 127,
+      "title": "Electrical Engineering",
+      "abbreviation": "EED",
+      "imageurl": "eed.png"
+    },
+    "code": "EEN-540"
+  },
+  {
+    "id": 1545,
+    "title": "Analysis of Electrical Machines",
+    "department": {
+      "id": 127,
+      "title": "Electrical Engineering",
+      "abbreviation": "EED",
+      "imageurl": "eed.png"
+    },
+    "code": "EEN-541"
+  },
+  {
+    "id": 1546,
+    "title": "Advanced Electric Drives",
+    "department": {
+      "id": 127,
+      "title": "Electrical Engineering",
+      "abbreviation": "EED",
+      "imageurl": "eed.png"
+    },
+    "code": "EEN-542"
+  },
+  {
+    "id": 1547,
+    "title": "Computer Aided Power System Analysis",
+    "department": {
+      "id": 127,
+      "title": "Electrical Engineering",
+      "abbreviation": "EED",
+      "imageurl": "eed.png"
+    },
+    "code": "EEN-560"
+  },
+  {
+    "id": 1548,
+    "title": "Power System Operation and Control",
+    "department": {
+      "id": 127,
+      "title": "Electrical Engineering",
+      "abbreviation": "EED",
+      "imageurl": "eed.png"
+    },
+    "code": "EEN-561"
+  },
+  {
+    "id": 1549,
+    "title": "Distribution System Analysis and Operation",
+    "department": {
+      "id": 127,
+      "title": "Electrical Engineering",
+      "abbreviation": "EED",
+      "imageurl": "eed.png"
+    },
+    "code": "EEN-562"
+  },
+  {
+    "id": 1550,
+    "title": "EHV AC Transmission Systems",
+    "department": {
+      "id": 127,
+      "title": "Electrical Engineering",
+      "abbreviation": "EED",
+      "imageurl": "eed.png"
+    },
+    "code": "EEN-563"
+  },
+  {
+    "id": 1551,
+    "title": "Advanced Linear Control Systems",
+    "department": {
+      "id": 127,
+      "title": "Electrical Engineering",
+      "abbreviation": "EED",
+      "imageurl": "eed.png"
+    },
+    "code": "EEN-580"
+  },
+  {
+    "id": 1552,
+    "title": "Intelligent Control Techniques",
+    "department": {
+      "id": 127,
+      "title": "Electrical Engineering",
+      "abbreviation": "EED",
+      "imageurl": "eed.png"
+    },
+    "code": "EEN-581"
+  },
+  {
+    "id": 1553,
+    "title": "Advanced System Engineering",
+    "department": {
+      "id": 127,
+      "title": "Electrical Engineering",
+      "abbreviation": "EED",
+      "imageurl": "eed.png"
+    },
+    "code": "EEN-582"
+  },
+  {
+    "id": 1554,
+    "title": "Advances in Signal and Image Processing",
+    "department": {
+      "id": 127,
+      "title": "Electrical Engineering",
+      "abbreviation": "EED",
+      "imageurl": "eed.png"
+    },
+    "code": "EEN-626"
+  },
+  {
+    "id": 1555,
+    "title": "Enhanced Power Quality AC-DC Converters",
+    "department": {
+      "id": 127,
+      "title": "Electrical Engineering",
+      "abbreviation": "EED",
+      "imageurl": "eed.png"
+    },
+    "code": "EEN-649"
+  },
+  {
+    "id": 1556,
+    "title": "Power System Planning",
+    "department": {
+      "id": 127,
+      "title": "Electrical Engineering",
+      "abbreviation": "EED",
+      "imageurl": "eed.png"
+    },
+    "code": "EEN-661"
+  },
+  {
+    "id": 1557,
+    "title": "Smart Grid",
+    "department": {
+      "id": 127,
+      "title": "Electrical Engineering",
+      "abbreviation": "EED",
+      "imageurl": "eed.png"
+    },
+    "code": "EEN-672"
+  },
+  {
+    "id": 1558,
+    "title": "Introduction to Robotics",
+    "department": {
+      "id": 127,
+      "title": "Electrical Engineering",
+      "abbreviation": "EED",
+      "imageurl": "eed.png"
+    },
+    "code": "EEN-683"
+  },
+  {
+    "id": 1559,
+    "title": "Modeling and Simulation",
+    "department": {
+      "id": 127,
+      "title": "Electrical Engineering",
+      "abbreviation": "EED",
+      "imageurl": "eed.png"
+    },
+    "code": "EEN-689"
+  },
+  {
+    "id": 1560,
+    "title": "SEMINAR",
+    "department": {
+      "id": 127,
+      "title": "Electrical Engineering",
+      "abbreviation": "EED",
+      "imageurl": "eed.png"
+    },
+    "code": "EEN-700"
+  },
+  {
+    "id": 1561,
+    "title": "DISSERTATION STAGE-I (TO BE CONTINUED NEXT SEMESTER)",
+    "department": {
+      "id": 127,
+      "title": "Electrical Engineering",
+      "abbreviation": "EED",
+      "imageurl": "eed.png"
+    },
+    "code": "EEN-701A"
+  },
+  {
+    "id": 1562,
+    "title": "Fundamental of Electronics",
+    "department": {
+      "id": 128,
+      "title": "Electronics and Communication Engineering",
+      "abbreviation": "ECED",
+      "imageurl": "eced.png"
+    },
+    "code": "ECN-102"
+  },
+  {
+    "id": 1563,
+    "title": "Principles of Digital Communication",
+    "department": {
+      "id": 128,
+      "title": "Electronics and Communication Engineering",
+      "abbreviation": "ECED",
+      "imageurl": "eced.png"
+    },
+    "code": "ECN-212"
+  },
+  {
+    "id": 1564,
+    "title": "Automatic Control Systems",
+    "department": {
+      "id": 128,
+      "title": "Electronics and Communication Engineering",
+      "abbreviation": "ECED",
+      "imageurl": "eced.png"
+    },
+    "code": "ECN-222"
+  },
+  {
+    "id": 1565,
+    "title": "Engineering Electromagnetics",
+    "department": {
+      "id": 128,
+      "title": "Electronics and Communication Engineering",
+      "abbreviation": "ECED",
+      "imageurl": "eced.png"
+    },
+    "code": "ECN-232"
+  },
+  {
+    "id": 1566,
+    "title": "Digital Electronic Circuits Laboratory",
+    "department": {
+      "id": 128,
+      "title": "Electronics and Communication Engineering",
+      "abbreviation": "ECED",
+      "imageurl": "eced.png"
+    },
+    "code": "ECN-252"
+  },
+  {
+    "id": 1567,
+    "title": "Communication Systems and Techniques",
+    "department": {
+      "id": 128,
+      "title": "Electronics and Communication Engineering",
+      "abbreviation": "ECED",
+      "imageurl": "eced.png"
+    },
+    "code": "ECN-311"
+  },
+  {
+    "id": 1568,
+    "title": "Antenna Theory",
+    "department": {
+      "id": 128,
+      "title": "Electronics and Communication Engineering",
+      "abbreviation": "ECED",
+      "imageurl": "eced.png"
+    },
+    "code": "ECN-331"
+  },
+  {
+    "id": 1569,
+    "title": "Microwave Engineering",
+    "department": {
+      "id": 128,
+      "title": "Electronics and Communication Engineering",
+      "abbreviation": "ECED",
+      "imageurl": "eced.png"
+    },
+    "code": "ECN-333"
+  },
+  {
+    "id": 1570,
+    "title": "Coding Theory and Applications",
+    "department": {
+      "id": 128,
+      "title": "Electronics and Communication Engineering",
+      "abbreviation": "ECED",
+      "imageurl": "eced.png"
+    },
+    "code": "ECN-515"
+  },
+  {
+    "id": 1571,
+    "title": "Fiber Optic Systems",
+    "department": {
+      "id": 128,
+      "title": "Electronics and Communication Engineering",
+      "abbreviation": "ECED",
+      "imageurl": "eced.png"
+    },
+    "code": "ECN-539"
+  },
+  {
+    "id": 1572,
+    "title": "Radar Signal Processing",
+    "department": {
+      "id": 128,
+      "title": "Electronics and Communication Engineering",
+      "abbreviation": "ECED",
+      "imageurl": "eced.png"
+    },
+    "code": "ECN-550"
+  },
+  {
+    "id": 1573,
+    "title": "RF System Design and Analysis",
+    "department": {
+      "id": 128,
+      "title": "Electronics and Communication Engineering",
+      "abbreviation": "ECED",
+      "imageurl": "eced.png"
+    },
+    "code": "ECN-556"
+  },
+  {
+    "id": 1574,
+    "title": "Microelectronics Lab-1",
+    "department": {
+      "id": 128,
+      "title": "Electronics and Communication Engineering",
+      "abbreviation": "ECED",
+      "imageurl": "eced.png"
+    },
+    "code": "ECN-575"
+  },
+  {
+    "id": 1575,
+    "title": "SIGNALS AND SYSTEMS",
+    "department": {
+      "id": 128,
+      "title": "Electronics and Communication Engineering",
+      "abbreviation": "ECED",
+      "imageurl": "eced.png"
+    },
+    "code": "EC-202"
+  },
+  {
+    "id": 1576,
+    "title": "Introduction to Electronics and Communication Engineering",
+    "department": {
+      "id": 128,
+      "title": "Electronics and Communication Engineering",
+      "abbreviation": "ECED",
+      "imageurl": "eced.png"
+    },
+    "code": "ECN-101"
+  },
+  {
+    "id": 1577,
+    "title": "SIGNALS AND SYSTEMS",
+    "department": {
+      "id": 128,
+      "title": "Electronics and Communication Engineering",
+      "abbreviation": "ECED",
+      "imageurl": "eced.png"
+    },
+    "code": "ECN-203"
+  },
+  {
+    "id": 1578,
+    "title": "ELECTRONICS NETWORK THEORY",
+    "department": {
+      "id": 128,
+      "title": "Electronics and Communication Engineering",
+      "abbreviation": "ECED",
+      "imageurl": "eced.png"
+    },
+    "code": "ECN-291"
+  },
+  {
+    "id": 1579,
+    "title": "Microelectronic Devices,Technology and Circuits",
+    "department": {
+      "id": 128,
+      "title": "Electronics and Communication Engineering",
+      "abbreviation": "ECED",
+      "imageurl": "eced.png"
+    },
+    "code": "ECN-341"
+  },
+  {
+    "id": 1692,
+    "title": "SEMINAR",
+    "department": {
+      "id": 132,
+      "title": "Mathematics",
+      "abbreviation": "MAD",
+      "imageurl": "mad.png"
+    },
+    "code": "MAN-900"
+  },
+  {
+    "id": 1580,
+    "title": "Fundamentals of Microelectronics",
+    "department": {
+      "id": 128,
+      "title": "Electronics and Communication Engineering",
+      "abbreviation": "ECED",
+      "imageurl": "eced.png"
+    },
+    "code": "ECN-343"
+  },
+  {
+    "id": 1581,
+    "title": "IC Application Laboratory",
+    "department": {
+      "id": 128,
+      "title": "Electronics and Communication Engineering",
+      "abbreviation": "ECED",
+      "imageurl": "eced.png"
+    },
+    "code": "ECN-351"
+  },
+  {
+    "id": 1582,
+    "title": "Technical Communication",
+    "department": {
+      "id": 128,
+      "title": "Electronics and Communication Engineering",
+      "abbreviation": "ECED",
+      "imageurl": "eced.png"
+    },
+    "code": "ECN-391"
+  },
+  {
+    "id": 1583,
+    "title": "B.Tech. Project ",
+    "department": {
+      "id": 128,
+      "title": "Electronics and Communication Engineering",
+      "abbreviation": "ECED",
+      "imageurl": "eced.png"
+    },
+    "code": "ECN-400A"
+  },
+  {
+    "id": 1584,
+    "title": "Training Seminar",
+    "department": {
+      "id": 128,
+      "title": "Electronics and Communication Engineering",
+      "abbreviation": "ECED",
+      "imageurl": "eced.png"
+    },
+    "code": "ECN-499"
+  },
+  {
+    "id": 1585,
+    "title": "Laboratory",
+    "department": {
+      "id": 128,
+      "title": "Electronics and Communication Engineering",
+      "abbreviation": "ECED",
+      "imageurl": "eced.png"
+    },
+    "code": "ECN-510"
+  },
+  {
+    "id": 1586,
+    "title": "Digital Communication Systems",
+    "department": {
+      "id": 128,
+      "title": "Electronics and Communication Engineering",
+      "abbreviation": "ECED",
+      "imageurl": "eced.png"
+    },
+    "code": "ECN-511"
+  },
+  {
+    "id": 1587,
+    "title": "Information and Communication Theory",
+    "department": {
+      "id": 128,
+      "title": "Electronics and Communication Engineering",
+      "abbreviation": "ECED",
+      "imageurl": "eced.png"
+    },
+    "code": "ECN-512"
+  },
+  {
+    "id": 1588,
+    "title": "Telecommunication Networks",
+    "department": {
+      "id": 128,
+      "title": "Electronics and Communication Engineering",
+      "abbreviation": "ECED",
+      "imageurl": "eced.png"
+    },
+    "code": "ECN-513"
+  },
+  {
+    "id": 1589,
+    "title": "Microwave Lab",
+    "department": {
+      "id": 128,
+      "title": "Electronics and Communication Engineering",
+      "abbreviation": "ECED",
+      "imageurl": "eced.png"
+    },
+    "code": "ECN-530"
+  },
+  {
+    "id": 1590,
+    "title": "Microwave Engineering",
+    "department": {
+      "id": 128,
+      "title": "Electronics and Communication Engineering",
+      "abbreviation": "ECED",
+      "imageurl": "eced.png"
+    },
+    "code": "ECN-531"
+  },
+  {
+    "id": 1591,
+    "title": "Advanced EMFT",
+    "department": {
+      "id": 128,
+      "title": "Electronics and Communication Engineering",
+      "abbreviation": "ECED",
+      "imageurl": "eced.png"
+    },
+    "code": "ECN-532"
+  },
+  {
+    "id": 1592,
+    "title": "Antenna Theory & Design",
+    "department": {
+      "id": 128,
+      "title": "Electronics and Communication Engineering",
+      "abbreviation": "ECED",
+      "imageurl": "eced.png"
+    },
+    "code": "ECN-534"
+  },
+  {
+    "id": 1593,
+    "title": "Microwave and Millimeter Wave Circuits",
+    "department": {
+      "id": 128,
+      "title": "Electronics and Communication Engineering",
+      "abbreviation": "ECED",
+      "imageurl": "eced.png"
+    },
+    "code": "ECN-554"
+  },
+  {
+    "id": 1594,
+    "title": "MOS Device Physics",
+    "department": {
+      "id": 128,
+      "title": "Electronics and Communication Engineering",
+      "abbreviation": "ECED",
+      "imageurl": "eced.png"
+    },
+    "code": "ECN-572"
+  },
+  {
+    "id": 1595,
+    "title": "Digital VLSI Circuit Design",
+    "department": {
+      "id": 128,
+      "title": "Electronics and Communication Engineering",
+      "abbreviation": "ECED",
+      "imageurl": "eced.png"
+    },
+    "code": "ECN-573"
+  },
+  {
+    "id": 1596,
+    "title": "Simulation Lab-1",
+    "department": {
+      "id": 128,
+      "title": "Electronics and Communication Engineering",
+      "abbreviation": "ECED",
+      "imageurl": "eced.png"
+    },
+    "code": "ECN-576"
+  },
+  {
+    "id": 1597,
+    "title": "Digital System Design",
+    "department": {
+      "id": 128,
+      "title": "Electronics and Communication Engineering",
+      "abbreviation": "ECED",
+      "imageurl": "eced.png"
+    },
+    "code": "ECN-578"
+  },
+  {
+    "id": 1598,
+    "title": "Analog VLSI Circuit Design",
+    "department": {
+      "id": 128,
+      "title": "Electronics and Communication Engineering",
+      "abbreviation": "ECED",
+      "imageurl": "eced.png"
+    },
+    "code": "ECN-581"
+  },
+  {
+    "id": 1599,
+    "title": "SEMINAR",
+    "department": {
+      "id": 128,
+      "title": "Electronics and Communication Engineering",
+      "abbreviation": "ECED",
+      "imageurl": "eced.png"
+    },
+    "code": "ECN-700"
+  },
+  {
+    "id": 1600,
+    "title": "DISSERTATION STAGE-I (TO BE CONTINUED NEXT SEMESTER)",
+    "department": {
+      "id": 128,
+      "title": "Electronics and Communication Engineering",
+      "abbreviation": "ECED",
+      "imageurl": "eced.png"
+    },
+    "code": "ECN-701A"
+  },
+  {
+    "id": 1601,
+    "title": "DISSERTATION STAGE-II (CONTINUED FROM III SEMESTER)",
+    "department": {
+      "id": 128,
+      "title": "Electronics and Communication Engineering",
+      "abbreviation": "ECED",
+      "imageurl": "eced.png"
+    },
+    "code": "ECN-701B"
+  },
+  {
+    "id": 1602,
+    "title": "Communication skills (Basic)",
+    "department": {
+      "id": 129,
+      "title": "Humanities and Social Sciences",
+      "abbreviation": "HSD",
+      "imageurl": "hsd.png"
+    },
+    "code": "HS-001A"
+  },
+  {
+    "id": 1603,
+    "title": "Technical Communication",
+    "department": {
+      "id": 129,
+      "title": "Humanities and Social Sciences",
+      "abbreviation": "HSD",
+      "imageurl": "hsd.png"
+    },
+    "code": "HS-501"
+  },
+  {
+    "id": 1604,
+    "title": "Communication Skills(Basic)",
+    "department": {
+      "id": 129,
+      "title": "Humanities and Social Sciences",
+      "abbreviation": "HSD",
+      "imageurl": "hsd.png"
+    },
+    "code": "HSN-001A"
+  },
+  {
+    "id": 1605,
+    "title": "Communication Skills(Advance)",
+    "department": {
+      "id": 129,
+      "title": "Humanities and Social Sciences",
+      "abbreviation": "HSD",
+      "imageurl": "hsd.png"
+    },
+    "code": "HSN-001B"
+  },
+  {
+    "id": 1606,
+    "title": "Introduction to Psychology",
+    "department": {
+      "id": 129,
+      "title": "Humanities and Social Sciences",
+      "abbreviation": "HSD",
+      "imageurl": "hsd.png"
+    },
+    "code": "HSN-002"
+  },
+  {
+    "id": 1607,
+    "title": "Society,Culture Built Environment",
+    "department": {
+      "id": 129,
+      "title": "Humanities and Social Sciences",
+      "abbreviation": "HSD",
+      "imageurl": "hsd.png"
+    },
+    "code": "HSN-351"
+  },
+  {
+    "id": 1608,
+    "title": "Technical Communication",
+    "department": {
+      "id": 129,
+      "title": "Humanities and Social Sciences",
+      "abbreviation": "HSD",
+      "imageurl": "hsd.png"
+    },
+    "code": "HSN-501"
+  },
+  {
+    "id": 1609,
+    "title": "Economics",
+    "department": {
+      "id": 129,
+      "title": "Humanities and Social Sciences",
+      "abbreviation": "HSD",
+      "imageurl": "hsd.png"
+    },
+    "code": "HSS-01"
+  },
+  {
+    "id": 1610,
+    "title": "Sociology",
+    "department": {
+      "id": 129,
+      "title": "Humanities and Social Sciences",
+      "abbreviation": "HSD",
+      "imageurl": "hsd.png"
+    },
+    "code": "HSS-02"
+  },
+  {
+    "id": 1611,
+    "title": "UNDERSTANDING PERSONALITY",
+    "department": {
+      "id": 129,
+      "title": "Humanities and Social Sciences",
+      "abbreviation": "HSD",
+      "imageurl": "hsd.png"
+    },
+    "code": "HS-902"
+  },
+  {
+    "id": 1612,
+    "title": "HSN-01",
+    "department": {
+      "id": 129,
+      "title": "Humanities and Social Sciences",
+      "abbreviation": "HSD",
+      "imageurl": "hsd.png"
+    },
+    "code": "HSN-01"
+  },
+  {
+    "id": 1613,
+    "title": "MICROECONOMICS I",
+    "department": {
+      "id": 129,
+      "title": "Humanities and Social Sciences",
+      "abbreviation": "HSD",
+      "imageurl": "hsd.png"
+    },
+    "code": "HSN-502"
+  },
+  {
+    "id": 1614,
+    "title": "MACROECONOMICS I",
+    "department": {
+      "id": 129,
+      "title": "Humanities and Social Sciences",
+      "abbreviation": "HSD",
+      "imageurl": "hsd.png"
+    },
+    "code": "HSN-503"
+  },
+  {
+    "id": 1615,
+    "title": "MATHEMATICS FOR ECONOMISTS",
+    "department": {
+      "id": 129,
+      "title": "Humanities and Social Sciences",
+      "abbreviation": "HSD",
+      "imageurl": "hsd.png"
+    },
+    "code": "HSN-504"
+  },
+  {
+    "id": 1616,
+    "title": "DEVELOPMENT ECONOMICS",
+    "department": {
+      "id": 129,
+      "title": "Humanities and Social Sciences",
+      "abbreviation": "HSD",
+      "imageurl": "hsd.png"
+    },
+    "code": "HSN-505"
+  },
+  {
+    "id": 1617,
+    "title": "MONEY, BANKING AND FINANCIAL MARKETS",
+    "department": {
+      "id": 129,
+      "title": "Humanities and Social Sciences",
+      "abbreviation": "HSD",
+      "imageurl": "hsd.png"
+    },
+    "code": "HSN-506"
+  },
+  {
+    "id": 1618,
+    "title": "ADVANCED ECONOMETRICS",
+    "department": {
+      "id": 129,
+      "title": "Humanities and Social Sciences",
+      "abbreviation": "HSD",
+      "imageurl": "hsd.png"
+    },
+    "code": "HSN-512"
+  },
+  {
+    "id": 1619,
+    "title": "PUBLIC POLICY; THEORY AND PRACTICE",
+    "department": {
+      "id": 129,
+      "title": "Humanities and Social Sciences",
+      "abbreviation": "HSD",
+      "imageurl": "hsd.png"
+    },
+    "code": "HSN-513"
+  },
+  {
+    "id": 1620,
+    "title": "Issues in Indian Economy",
+    "department": {
+      "id": 129,
+      "title": "Humanities and Social Sciences",
+      "abbreviation": "HSD",
+      "imageurl": "hsd.png"
+    },
+    "code": "HSN-601"
+  },
+  {
+    "id": 1621,
+    "title": "Introduction to Research Methodology",
+    "department": {
+      "id": 129,
+      "title": "Humanities and Social Sciences",
+      "abbreviation": "HSD",
+      "imageurl": "hsd.png"
+    },
+    "code": "HSN-602"
+  },
+  {
+    "id": 1622,
+    "title": "Ecological Economics",
+    "department": {
+      "id": 129,
+      "title": "Humanities and Social Sciences",
+      "abbreviation": "HSD",
+      "imageurl": "hsd.png"
+    },
+    "code": "HSN-604"
+  },
+  {
+    "id": 1623,
+    "title": "Advanced Topics in Growth Theory",
+    "department": {
+      "id": 129,
+      "title": "Humanities and Social Sciences",
+      "abbreviation": "HSD",
+      "imageurl": "hsd.png"
+    },
+    "code": "HSN-607"
+  },
+  {
+    "id": 1624,
+    "title": "SEMINAR",
+    "department": {
+      "id": 129,
+      "title": "Humanities and Social Sciences",
+      "abbreviation": "HSD",
+      "imageurl": "hsd.png"
+    },
+    "code": "HSN-700"
+  },
+  {
+    "id": 1625,
+    "title": "UNDERSTANDING PERSONLALITY",
+    "department": {
+      "id": 129,
+      "title": "Humanities and Social Sciences",
+      "abbreviation": "HSD",
+      "imageurl": "hsd.png"
+    },
+    "code": "HSN-902"
+  },
+  {
+    "id": 1626,
+    "title": "RESEARCH METHODOLOGY IN SOCIAL SCIENCES",
+    "department": {
+      "id": 129,
+      "title": "Humanities and Social Sciences",
+      "abbreviation": "HSD",
+      "imageurl": "hsd.png"
+    },
+    "code": "HSN-908"
+  },
+  {
+    "id": 1627,
+    "title": "RESEARCH METHODOLOGY IN LANGUAGE & LITERATURE",
+    "department": {
+      "id": 129,
+      "title": "Humanities and Social Sciences",
+      "abbreviation": "HSD",
+      "imageurl": "hsd.png"
+    },
+    "code": "HSN-911"
+  },
+  {
+    "id": 1628,
+    "title": "Engineering Hydrology",
+    "department": {
+      "id": 130,
+      "title": "Hydrology",
+      "abbreviation": "HYD",
+      "imageurl": "hyd.png"
+    },
+    "code": "HYN-102"
+  },
+  {
+    "id": 1629,
+    "title": "Irrigation and drainage engineering",
+    "department": {
+      "id": 130,
+      "title": "Hydrology",
+      "abbreviation": "HYD",
+      "imageurl": "hyd.png"
+    },
+    "code": "HYN-562"
+  },
+  {
+    "id": 1630,
+    "title": "Stochastic hydrology",
+    "department": {
+      "id": 130,
+      "title": "Hydrology",
+      "abbreviation": "HYD",
+      "imageurl": "hyd.png"
+    },
+    "code": "HYN-522"
+  },
+  {
+    "id": 1631,
+    "title": "Groundwater hydrology",
+    "department": {
+      "id": 130,
+      "title": "Hydrology",
+      "abbreviation": "HYD",
+      "imageurl": "hyd.png"
+    },
+    "code": "HYN-527"
+  },
+  {
+    "id": 1632,
+    "title": "Geophysical investigations",
+    "department": {
+      "id": 130,
+      "title": "Hydrology",
+      "abbreviation": "HYD",
+      "imageurl": "hyd.png"
+    },
+    "code": "HYN-529"
+  },
+  {
+    "id": 1633,
+    "title": "Watershed Behavior and Conservation Practices",
+    "department": {
+      "id": 130,
+      "title": "Hydrology",
+      "abbreviation": "HYD",
+      "imageurl": "hyd.png"
+    },
+    "code": "HYN-531"
+  },
+  {
+    "id": 1634,
+    "title": "Environmental quality",
+    "department": {
+      "id": 130,
+      "title": "Hydrology",
+      "abbreviation": "HYD",
+      "imageurl": "hyd.png"
+    },
+    "code": "HYN-535"
+  },
+  {
+    "id": 1635,
+    "title": "Remote sensing and GIS applications",
+    "department": {
+      "id": 130,
+      "title": "Hydrology",
+      "abbreviation": "HYD",
+      "imageurl": "hyd.png"
+    },
+    "code": "HYN-537"
+  },
+  {
+    "id": 1636,
+    "title": "Experimental hydrology",
+    "department": {
+      "id": 130,
+      "title": "Hydrology",
+      "abbreviation": "HYD",
+      "imageurl": "hyd.png"
+    },
+    "code": "HYN-553"
+  },
+  {
+    "id": 1637,
+    "title": "Soil and groundwater contamination modelling",
+    "department": {
+      "id": 130,
+      "title": "Hydrology",
+      "abbreviation": "HYD",
+      "imageurl": "hyd.png"
+    },
+    "code": "HYN-560"
+  },
+  {
+    "id": 1638,
+    "title": "Watershed modeling and simulation",
+    "department": {
+      "id": 130,
+      "title": "Hydrology",
+      "abbreviation": "HYD",
+      "imageurl": "hyd.png"
+    },
+    "code": "HYN-571"
+  },
+  {
+    "id": 1639,
+    "title": "SEMINAR",
+    "department": {
+      "id": 130,
+      "title": "Hydrology",
+      "abbreviation": "HYD",
+      "imageurl": "hyd.png"
+    },
+    "code": "HYN-700"
+  },
+  {
+    "id": 1640,
+    "title": "DISSERTATION STAGE-I (TO BE CONTINUED NEXT SEMESTER)",
+    "department": {
+      "id": 130,
+      "title": "Hydrology",
+      "abbreviation": "HYD",
+      "imageurl": "hyd.png"
+    },
+    "code": "HYN-701A"
+  },
+  {
+    "id": 1641,
+    "title": "DISSERTATION STAGE-II (CONTINUED FROM III SEMESTER)",
+    "department": {
+      "id": 130,
+      "title": "Hydrology",
+      "abbreviation": "HYD",
+      "imageurl": "hyd.png"
+    },
+    "code": "HYN-701B"
+  },
+  {
+    "id": 1642,
+    "title": "Mathematical Methods",
+    "department": {
+      "id": 132,
+      "title": "Mathematics",
+      "abbreviation": "MAD",
+      "imageurl": "mad.png"
+    },
+    "code": "MAN-002"
+  },
+  {
+    "id": 1643,
+    "title": "Probability and Statistics",
+    "department": {
+      "id": 132,
+      "title": "Mathematics",
+      "abbreviation": "MAD",
+      "imageurl": "mad.png"
+    },
+    "code": "MAN-006"
+  },
+  {
+    "id": 1644,
+    "title": "Real Analysis I",
+    "department": {
+      "id": 132,
+      "title": "Mathematics",
+      "abbreviation": "MAD",
+      "imageurl": "mad.png"
+    },
+    "code": "MAN-104"
+  },
+  {
+    "id": 1645,
+    "title": "Theory of Computation",
+    "department": {
+      "id": 132,
+      "title": "Mathematics",
+      "abbreviation": "MAD",
+      "imageurl": "mad.png"
+    },
+    "code": "MAN-304"
+  },
+  {
+    "id": 1646,
+    "title": "Combinatorial Mathematics",
+    "department": {
+      "id": 132,
+      "title": "Mathematics",
+      "abbreviation": "MAD",
+      "imageurl": "mad.png"
+    },
+    "code": "MAN-322"
+  },
+  {
+    "id": 1647,
+    "title": "Complex Analysis-II",
+    "department": {
+      "id": 132,
+      "title": "Mathematics",
+      "abbreviation": "MAD",
+      "imageurl": "mad.png"
+    },
+    "code": "MAN-510"
+  },
+  {
+    "id": 1649,
+    "title": "Combinatorial Mathematics",
+    "department": {
+      "id": 132,
+      "title": "Mathematics",
+      "abbreviation": "MAD",
+      "imageurl": "mad.png"
+    },
+    "code": "MAN-646"
+  },
+  {
+    "id": 1650,
+    "title": "Probability and Statistics",
+    "department": {
+      "id": 132,
+      "title": "Mathematics",
+      "abbreviation": "MAD",
+      "imageurl": "mad.png"
+    },
+    "code": "MA-501C"
+  },
+  {
+    "id": 1651,
+    "title": "Optimization Techniques",
+    "department": {
+      "id": 132,
+      "title": "Mathematics",
+      "abbreviation": "MAD",
+      "imageurl": "mad.png"
+    },
+    "code": "MA-501E"
+  },
+  {
+    "id": 1652,
+    "title": "Numerical Methods, Probability and Statistics",
+    "department": {
+      "id": 132,
+      "title": "Mathematics",
+      "abbreviation": "MAD",
+      "imageurl": "mad.png"
+    },
+    "code": "MA-501F"
+  },
+  {
+    "id": 1653,
+    "title": "Mathematics-I",
+    "department": {
+      "id": 132,
+      "title": "Mathematics",
+      "abbreviation": "MAD",
+      "imageurl": "mad.png"
+    },
+    "code": "MAN-001"
+  },
+  {
+    "id": 1654,
+    "title": "Introduction to Mathematical Sciences",
+    "department": {
+      "id": 132,
+      "title": "Mathematics",
+      "abbreviation": "MAD",
+      "imageurl": "mad.png"
+    },
+    "code": "MAN-101"
+  },
+  {
+    "id": 1655,
+    "title": "Introduction to Computer Programming",
+    "department": {
+      "id": 132,
+      "title": "Mathematics",
+      "abbreviation": "MAD",
+      "imageurl": "mad.png"
+    },
+    "code": "MAN-103"
+  },
+  {
+    "id": 1656,
+    "title": "COMPLEX ANALYSIS-I",
+    "department": {
+      "id": 132,
+      "title": "Mathematics",
+      "abbreviation": "MAD",
+      "imageurl": "mad.png"
+    },
+    "code": "MAN-201"
+  },
+  {
+    "id": 1657,
+    "title": "DISCRETE MATHEMATICS",
+    "department": {
+      "id": 132,
+      "title": "Mathematics",
+      "abbreviation": "MAD",
+      "imageurl": "mad.png"
+    },
+    "code": "MAN-203"
+  },
+  {
+    "id": 1658,
+    "title": "ORDINARY AND PARTIAL DIFFERENTIAL EQUATIONS",
+    "department": {
+      "id": 132,
+      "title": "Mathematics",
+      "abbreviation": "MAD",
+      "imageurl": "mad.png"
+    },
+    "code": "MAN-205"
+  },
+  {
+    "id": 1659,
+    "title": "DESIGN AND ANALYSIS OF ALGORITHMS",
+    "department": {
+      "id": 132,
+      "title": "Mathematics",
+      "abbreviation": "MAD",
+      "imageurl": "mad.png"
+    },
+    "code": "MAN-291"
+  },
+  {
+    "id": 1660,
+    "title": "Abstract Algebra-I",
+    "department": {
+      "id": 132,
+      "title": "Mathematics",
+      "abbreviation": "MAD",
+      "imageurl": "mad.png"
+    },
+    "code": "MAN-301"
+  },
+  {
+    "id": 1661,
+    "title": "Mathematical Statistics",
+    "department": {
+      "id": 132,
+      "title": "Mathematics",
+      "abbreviation": "MAD",
+      "imageurl": "mad.png"
+    },
+    "code": "MAN-303"
+  },
+  {
+    "id": 1662,
+    "title": "Linear Programming",
+    "department": {
+      "id": 132,
+      "title": "Mathematics",
+      "abbreviation": "MAD",
+      "imageurl": "mad.png"
+    },
+    "code": "MAN-305"
+  },
+  {
+    "id": 1663,
+    "title": "MATHEMATICAL IMAGING TECHNOLOGY",
+    "department": {
+      "id": 132,
+      "title": "Mathematics",
+      "abbreviation": "MAD",
+      "imageurl": "mad.png"
+    },
+    "code": "MAN-325"
+  },
+  {
+    "id": 1664,
+    "title": "Technical Communication",
+    "department": {
+      "id": 132,
+      "title": "Mathematics",
+      "abbreviation": "MAD",
+      "imageurl": "mad.png"
+    },
+    "code": "MAN-391"
+  },
+  {
+    "id": 1665,
+    "title": "THEORY OF ORDINARY DIFFERENTIAL EQUATIONS",
+    "department": {
+      "id": 132,
+      "title": "Mathematics",
+      "abbreviation": "MAD",
+      "imageurl": "mad.png"
+    },
+    "code": "MAN-501"
+  },
+  {
+    "id": 1666,
+    "title": "Real Analysis-II",
+    "department": {
+      "id": 132,
+      "title": "Mathematics",
+      "abbreviation": "MAD",
+      "imageurl": "mad.png"
+    },
+    "code": "MAN-503"
+  },
+  {
+    "id": 1667,
+    "title": "Topology",
+    "department": {
+      "id": 132,
+      "title": "Mathematics",
+      "abbreviation": "MAD",
+      "imageurl": "mad.png"
+    },
+    "code": "MAN-505"
+  },
+  {
+    "id": 1668,
+    "title": "Statistical Inference",
+    "department": {
+      "id": 132,
+      "title": "Mathematics",
+      "abbreviation": "MAD",
+      "imageurl": "mad.png"
+    },
+    "code": "MAN-507"
+  },
+  {
+    "id": 1669,
+    "title": "Theory of Partial Differential Equations",
+    "department": {
+      "id": 132,
+      "title": "Mathematics",
+      "abbreviation": "MAD",
+      "imageurl": "mad.png"
+    },
+    "code": "MAN-508"
+  },
+  {
+    "id": 1670,
+    "title": "Theory of Ordinary Differential Equations",
+    "department": {
+      "id": 132,
+      "title": "Mathematics",
+      "abbreviation": "MAD",
+      "imageurl": "mad.png"
+    },
+    "code": "MAN-511"
+  },
+  {
+    "id": 1671,
+    "title": "Real Analysis",
+    "department": {
+      "id": 132,
+      "title": "Mathematics",
+      "abbreviation": "MAD",
+      "imageurl": "mad.png"
+    },
+    "code": "MAN-513"
+  },
+  {
+    "id": 1672,
+    "title": "Topology",
+    "department": {
+      "id": 132,
+      "title": "Mathematics",
+      "abbreviation": "MAD",
+      "imageurl": "mad.png"
+    },
+    "code": "MAN-515"
+  },
+  {
+    "id": 1673,
+    "title": "Abstract Algebra",
+    "department": {
+      "id": 132,
+      "title": "Mathematics",
+      "abbreviation": "MAD",
+      "imageurl": "mad.png"
+    },
+    "code": "MAN-517"
+  },
+  {
+    "id": 1674,
+    "title": "Computer Programming",
+    "department": {
+      "id": 132,
+      "title": "Mathematics",
+      "abbreviation": "MAD",
+      "imageurl": "mad.png"
+    },
+    "code": "MAN-519"
+  },
+  {
+    "id": 1675,
+    "title": "SOFT COMPUTING",
+    "department": {
+      "id": 132,
+      "title": "Mathematics",
+      "abbreviation": "MAD",
+      "imageurl": "mad.png"
+    },
+    "code": "MAN-526"
+  },
+  {
+    "id": 1676,
+    "title": "Mathematics",
+    "department": {
+      "id": 132,
+      "title": "Mathematics",
+      "abbreviation": "MAD",
+      "imageurl": "mad.png"
+    },
+    "code": "MAN-561"
+  },
+  {
+    "id": 1677,
+    "title": "Fluid Dynamics",
+    "department": {
+      "id": 132,
+      "title": "Mathematics",
+      "abbreviation": "MAD",
+      "imageurl": "mad.png"
+    },
+    "code": "MAN-601"
+  },
+  {
+    "id": 1678,
+    "title": "Tensors and Differential Geometry",
+    "department": {
+      "id": 132,
+      "title": "Mathematics",
+      "abbreviation": "MAD",
+      "imageurl": "mad.png"
+    },
+    "code": "MAN-603"
+  },
+  {
+    "id": 1679,
+    "title": "Functional Analysis",
+    "department": {
+      "id": 132,
+      "title": "Mathematics",
+      "abbreviation": "MAD",
+      "imageurl": "mad.png"
+    },
+    "code": "MAN-605"
+  },
+  {
+    "id": 1680,
+    "title": "FUNCTIONAL ANALYSIS",
+    "department": {
+      "id": 132,
+      "title": "Mathematics",
+      "abbreviation": "MAD",
+      "imageurl": "mad.png"
+    },
+    "code": "MAN-611"
+  },
+  {
+    "id": 1681,
+    "title": "OPERATIONS RESEARCH",
+    "department": {
+      "id": 132,
+      "title": "Mathematics",
+      "abbreviation": "MAD",
+      "imageurl": "mad.png"
+    },
+    "code": "MAN-613"
+  },
+  {
+    "id": 1682,
+    "title": "SEMINAR",
+    "department": {
+      "id": 132,
+      "title": "Mathematics",
+      "abbreviation": "MAD",
+      "imageurl": "mad.png"
+    },
+    "code": "MAN-615"
+  },
+  {
+    "id": 1683,
+    "title": "Mathematical Statistics",
+    "department": {
+      "id": 132,
+      "title": "Mathematics",
+      "abbreviation": "MAD",
+      "imageurl": "mad.png"
+    },
+    "code": "MAN-629"
+  },
+  {
+    "id": 1684,
+    "title": "Advanced Numerical Analysis",
+    "department": {
+      "id": 132,
+      "title": "Mathematics",
+      "abbreviation": "MAD",
+      "imageurl": "mad.png"
+    },
+    "code": "MAN-642"
+  },
+  {
+    "id": 1685,
+    "title": "Coding Theory",
+    "department": {
+      "id": 132,
+      "title": "Mathematics",
+      "abbreviation": "MAD",
+      "imageurl": "mad.png"
+    },
+    "code": "MAN-645"
+  },
+  {
+    "id": 1686,
+    "title": "CONTROL THEORY",
+    "department": {
+      "id": 132,
+      "title": "Mathematics",
+      "abbreviation": "MAD",
+      "imageurl": "mad.png"
+    },
+    "code": "MAN-647"
+  },
+  {
+    "id": 1687,
+    "title": "Dynamical Systems",
+    "department": {
+      "id": 132,
+      "title": "Mathematics",
+      "abbreviation": "MAD",
+      "imageurl": "mad.png"
+    },
+    "code": "MAN-648"
+  },
+  {
+    "id": 1688,
+    "title": "Financial Mathematics",
+    "department": {
+      "id": 132,
+      "title": "Mathematics",
+      "abbreviation": "MAD",
+      "imageurl": "mad.png"
+    },
+    "code": "MAN-649"
+  },
+  {
+    "id": 1689,
+    "title": "MEASURE THEORY",
+    "department": {
+      "id": 132,
+      "title": "Mathematics",
+      "abbreviation": "MAD",
+      "imageurl": "mad.png"
+    },
+    "code": "MAN-651"
+  },
+  {
+    "id": 1690,
+    "title": "Orthogonal Polynomials and Special Functions",
+    "department": {
+      "id": 132,
+      "title": "Mathematics",
+      "abbreviation": "MAD",
+      "imageurl": "mad.png"
+    },
+    "code": "MAN-654"
+  },
+  {
+    "id": 1693,
+    "title": "SELECTED TOPICS IN ANALYSIS",
+    "department": {
+      "id": 132,
+      "title": "Mathematics",
+      "abbreviation": "MAD",
+      "imageurl": "mad.png"
+    },
+    "code": "MAN-901"
+  },
+  {
+    "id": 1694,
+    "title": "ADVANCED NUMERICAL ANALYSIS",
+    "department": {
+      "id": 132,
+      "title": "Mathematics",
+      "abbreviation": "MAD",
+      "imageurl": "mad.png"
+    },
+    "code": "MAN-902"
+  },
+  {
+    "id": 1695,
+    "title": "Advanced Manufacturing Processes",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MI-572"
+  },
+  {
+    "id": 1696,
+    "title": "Introduction to Mechanical Engineering",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MIN-101A"
+  },
+  {
+    "id": 1697,
+    "title": "Introduction to Production and Industrial Engineering",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MIN-101B"
+  },
+  {
+    "id": 1698,
+    "title": "Programming and Data Structure",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MIN-103"
+  },
+  {
+    "id": 1699,
+    "title": "Engineering Thermodynamics",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MIN-106"
+  },
+  {
+    "id": 1700,
+    "title": "Mechanical Engineering Drawing",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MIN-108"
+  },
+  {
+    "id": 1701,
+    "title": "Fluid Mechanics",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MIN-110"
+  },
+  {
+    "id": 1702,
+    "title": "ENGINEERING ANALYSIS AND DESIGN",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MIN-291"
+  },
+  {
+    "id": 1703,
+    "title": " Lab Based Project ",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MIN-300"
+  },
+  {
+    "id": 1704,
+    "title": "Machine Design",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MIN-302"
+  },
+  {
+    "id": 1705,
+    "title": "Heat and Mass Transfer",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MIN-305"
+  },
+  {
+    "id": 1706,
+    "title": "Theory of Production Processes-II",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MIN-309"
+  },
+  {
+    "id": 1707,
+    "title": "Work System Desing",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MIN-313"
+  },
+  {
+    "id": 1708,
+    "title": "Power Plants",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MIN-343"
+  },
+  {
+    "id": 1709,
+    "title": "Instrumentation and Experimental Methods",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MIN-500"
+  },
+  {
+    "id": 1710,
+    "title": "Computational Fluid Dynamics & Heat Transfer",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MIN-527"
+  },
+  {
+    "id": 1711,
+    "title": "Computer Aided Mechanism Design",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MIN-554"
+  },
+  {
+    "id": 1712,
+    "title": "Finite Element Methods",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MIN-557"
+  },
+  {
+    "id": 1713,
+    "title": "Advanced Mechanical Vibrations",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MIN-561"
+  },
+  {
+    "id": 1714,
+    "title": "Smart Materials, Structures, and Devices",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MIN-565"
+  },
+  {
+    "id": 1715,
+    "title": "KINEMATICS OF MACHINES",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MIN-201"
+  },
+  {
+    "id": 1716,
+    "title": "MANUFACTURING TECHNOLOGY-II",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MIN-203"
+  },
+  {
+    "id": 1717,
+    "title": "FLUID MECHANICS",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MIN-205"
+  },
+  {
+    "id": 1718,
+    "title": "THERMAL ENGINEERING",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MIN-209"
+  },
+  {
+    "id": 1719,
+    "title": "Energy Conversion",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MIN-210"
+  },
+  {
+    "id": 1720,
+    "title": "THEORY OF MACHINES",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MIN-211"
+  },
+  {
+    "id": 1721,
+    "title": "Theory of Production Processes - I",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MIN-216"
+  },
+  {
+    "id": 1722,
+    "title": "Dynamics of Machines",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MIN-301"
+  },
+  {
+    "id": 1723,
+    "title": "Principles of Industrial Enigneering",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MIN-303"
+  },
+  {
+    "id": 1724,
+    "title": "Operations Research",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MIN-311"
+  },
+  {
+    "id": 1725,
+    "title": "Vibration  and Noise",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MIN-321"
+  },
+  {
+    "id": 1726,
+    "title": "Industrial Management",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MIN-333"
+  },
+  {
+    "id": 1727,
+    "title": "Refrigeration and Air-Conditioning",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MIN-340"
+  },
+  {
+    "id": 1728,
+    "title": "Technical Communication",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MIN-391"
+  },
+  {
+    "id": 1729,
+    "title": "B.Tech. Project ",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MIN-400A"
+  },
+  {
+    "id": 1730,
+    "title": "Training Seminar",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MIN-499"
+  },
+  {
+    "id": 1731,
+    "title": "Robotics and Control",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MIN-502"
+  },
+  {
+    "id": 1732,
+    "title": "Modeling and Simulation",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MIN-511A"
+  },
+  {
+    "id": 1733,
+    "title": "Modeling and Simulation",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MIN-511B"
+  },
+  {
+    "id": 1734,
+    "title": "Advanced Thermodynamics",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MIN-520"
+  },
+  {
+    "id": 1735,
+    "title": "Advanced Fluid Mechanics",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MIN-521"
+  },
+  {
+    "id": 1736,
+    "title": "Advanced Heat Transfer",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MIN-522"
+  },
+  {
+    "id": 1737,
+    "title": "Solar Energy",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MIN-525"
+  },
+  {
+    "id": 1738,
+    "title": "Hydro-dynamic Machines",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MIN-531"
+  },
+  {
+    "id": 1739,
+    "title": "Micro and Nano Scale Thermal Engineering",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MIN-539"
+  },
+  {
+    "id": 1740,
+    "title": "Dynamics of Mechanical Systems",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MIN-551"
+  },
+  {
+    "id": 1741,
+    "title": "Advanced Mechanics of Solids",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MIN-552"
+  },
+  {
+    "id": 1742,
+    "title": "Computer Aided Design",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MIN-559"
+  },
+  {
+    "id": 1743,
+    "title": "Operations Management",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MIN-570"
+  },
+  {
+    "id": 1744,
+    "title": "Quality Management",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MIN-571"
+  },
+  {
+    "id": 1745,
+    "title": "Advanced Manufacturing Processes",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MIN-572"
+  },
+  {
+    "id": 1746,
+    "title": "Design for Manufacturability",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MIN-573"
+  },
+  {
+    "id": 1747,
+    "title": "Machine Tool Design and Numerical Control",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MIN-576"
+  },
+  {
+    "id": 1748,
+    "title": "Materials Management",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MIN-583"
+  },
+  {
+    "id": 1749,
+    "title": "Non-Traditional Machining Processes",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MIN-588"
+  },
+  {
+    "id": 1750,
+    "title": "Non-Conventional Welding Processes",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MIN-593"
+  },
+  {
+    "id": 1751,
+    "title": "Numerical Methods in Manufacturing",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MIN-606"
+  },
+  {
+    "id": 1752,
+    "title": "SEMINAR",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MIN-700"
+  },
+  {
+    "id": 1753,
+    "title": "DISSERTATION STAGE-I (TO BE CONTINUED NEXT SEMESTER)",
+    "department": {
+      "id": 133,
+      "title": "Mechanical and Industrial Engineering",
+      "abbreviation": "MIED",
+      "imageurl": "mied.png"
+    },
+    "code": "MIN-701A"
+  },
+  {
+    "id": 1754,
+    "title": "Printing Technology",
+    "department": {
+      "id": 136,
+      "title": "Polymer and Process Engineering",
+      "abbreviation": "PPED",
+      "imageurl": "pped.png"
+    },
+    "code": "PP-545"
+  },
+  {
+    "id": 1755,
+    "title": "Pulping",
+    "department": {
+      "id": 136,
+      "title": "Polymer and Process Engineering",
+      "abbreviation": "PPED",
+      "imageurl": "pped.png"
+    },
+    "code": "PPN-501"
+  },
+  {
+    "id": 1756,
+    "title": "Chemical Recovery Process",
+    "department": {
+      "id": 136,
+      "title": "Polymer and Process Engineering",
+      "abbreviation": "PPED",
+      "imageurl": "pped.png"
+    },
+    "code": "PPN-503"
+  },
+  {
+    "id": 1757,
+    "title": "Paper Proprieties and Stock Preparation",
+    "department": {
+      "id": 136,
+      "title": "Polymer and Process Engineering",
+      "abbreviation": "PPED",
+      "imageurl": "pped.png"
+    },
+    "code": "PPN-505"
+  },
+  {
+    "id": 1758,
+    "title": "Advanced Numerical Methods and Statistics",
+    "department": {
+      "id": 136,
+      "title": "Polymer and Process Engineering",
+      "abbreviation": "PPED",
+      "imageurl": "pped.png"
+    },
+    "code": "PPN-515"
+  },
+  {
+    "id": 1759,
+    "title": "Process Instrumentation  and Control",
+    "department": {
+      "id": 136,
+      "title": "Polymer and Process Engineering",
+      "abbreviation": "PPED",
+      "imageurl": "pped.png"
+    },
+    "code": "PPN-523"
+  },
+  {
+    "id": 1760,
+    "title": "Packaging Principles, Processes and Sustainability",
+    "department": {
+      "id": 136,
+      "title": "Polymer and Process Engineering",
+      "abbreviation": "PPED",
+      "imageurl": "pped.png"
+    },
+    "code": "PPN-541"
+  },
+  {
+    "id": 1762,
+    "title": "Printing Technology",
+    "department": {
+      "id": 136,
+      "title": "Polymer and Process Engineering",
+      "abbreviation": "PPED",
+      "imageurl": "pped.png"
+    },
+    "code": "PPN-545"
+  },
+  {
+    "id": 1763,
+    "title": "Converting Processes for Packaging",
+    "department": {
+      "id": 136,
+      "title": "Polymer and Process Engineering",
+      "abbreviation": "PPED",
+      "imageurl": "pped.png"
+    },
+    "code": "PPN-547"
+  },
+  {
+    "id": 1764,
+    "title": "SEMINAR",
+    "department": {
+      "id": 136,
+      "title": "Polymer and Process Engineering",
+      "abbreviation": "PPED",
+      "imageurl": "pped.png"
+    },
+    "code": "PPN-700"
+  },
+  {
+    "id": 1765,
+    "title": "DISSERTATION STAGE-I (TO BE CONTINUED NEXT SEMESTER)",
+    "department": {
+      "id": 136,
+      "title": "Polymer and Process Engineering",
+      "abbreviation": "PPED",
+      "imageurl": "pped.png"
+    },
+    "code": "PPN-701A"
+  },
+  {
+    "id": 1766,
+    "title": "Computational Physics",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PH-511(O)"
+  },
+  {
+    "id": 1767,
+    "title": "Physics of Earth’s Atmosphere",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PH-512"
+  },
+  {
+    "id": 1768,
+    "title": "Elements of Nuclear and  Particle Physics",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PH-514"
+  },
+  {
+    "id": 1769,
+    "title": "Advanced Atmospheric Physics",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PH-603"
+  },
+  {
+    "id": 1770,
+    "title": "Mechanics",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PHN-001"
+  },
+  {
+    "id": 1771,
+    "title": "Electromagnetic Field Theory",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PHN-003"
+  },
+  {
+    "id": 1772,
+    "title": "Applied Physics",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PHN-004"
+  },
+  {
+    "id": 1773,
+    "title": "Electrodynamics and Optics",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PHN-005"
+  },
+  {
+    "id": 1774,
+    "title": "Quantum Mechanics and Statistical Mechanics",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PHN-006"
+  },
+  {
+    "id": 1775,
+    "title": "Engineering Analysis Design",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PHN-205"
+  },
+  {
+    "id": 1776,
+    "title": "Quantum Physics",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PHN-211"
+  },
+  {
+    "id": 1777,
+    "title": "Applied Optics",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PHN-214"
+  },
+  {
+    "id": 1778,
+    "title": "Plasma Physics and Applications",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PHN-317"
+  },
+  {
+    "id": 1779,
+    "title": "QUANTUM INFORMATION AND COMPUTING",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PHN-427"
+  },
+  {
+    "id": 1780,
+    "title": "Laboratory Work",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PHN-502"
+  },
+  {
+    "id": 1781,
+    "title": "Classical Electrodynamics",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PHN-507"
+  },
+  {
+    "id": 1782,
+    "title": "Physics of Earth’s Atmosphere",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PHN-512"
+  },
+  {
+    "id": 1783,
+    "title": "Advanced Atmospheric Physics",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PHN-603"
+  },
+  {
+    "id": 1784,
+    "title": "Weather Forecasting",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PHN-629"
+  },
+  {
+    "id": 1785,
+    "title": "Laboratory Work",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PHN-701"
+  },
+  {
+    "id": 1786,
+    "title": "Semiconductor Materials and Devices",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PHN-703"
+  },
+  {
+    "id": 1787,
+    "title": "Optical Electronics",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PHN-713"
+  },
+  {
+    "id": 1788,
+    "title": "QUARK GLUON PLASMA & FINITE TEMPERATURE FIELD THEORY",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PH-920"
+  },
+  {
+    "id": 1789,
+    "title": "Modern Physics",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PHN-007"
+  },
+  {
+    "id": 1790,
+    "title": "Introduction to Physical Science",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PHN-101"
+  },
+  {
+    "id": 1791,
+    "title": "Computer Programming",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PHN-103"
+  },
+  {
+    "id": 1792,
+    "title": "Atomic Molecular and Laser Physics",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PHN-204"
+  },
+  {
+    "id": 1793,
+    "title": "Mechanics and Relativity",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PHN-207"
+  },
+  {
+    "id": 1794,
+    "title": "Mathematical Physics",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PHN-209"
+  },
+  {
+    "id": 1795,
+    "title": "Microprocessors and Peripheral Devices",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PHN-210"
+  },
+  {
+    "id": 1796,
+    "title": "Lab-based Project",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PHN-300"
+  },
+  {
+    "id": 1797,
+    "title": "Applied Instrumentation",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PHN-310"
+  },
+  {
+    "id": 1798,
+    "title": "Numerical Analysis and Computational Physics",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PHN-311"
+  },
+  {
+    "id": 1799,
+    "title": "Signals and Systems",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PHN-313"
+  },
+  {
+    "id": 1800,
+    "title": "Laser & Photonics",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PHN-315"
+  },
+  {
+    "id": 1801,
+    "title": "Techincal Communication",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PHN-319"
+  },
+  {
+    "id": 1802,
+    "title": "Nuclear Astrophysics",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PHN-331"
+  },
+  {
+    "id": 1803,
+    "title": "B.Tech. Project",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PHN-400A"
+  },
+  {
+    "id": 1804,
+    "title": "Training Seminar",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PHN-499"
+  },
+  {
+    "id": 1805,
+    "title": "Quantum Mechanics – I",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PHN-503"
+  },
+  {
+    "id": 1806,
+    "title": "Mathematical Physics",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PHN-505"
+  },
+  {
+    "id": 1807,
+    "title": "Classical Mechanics",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PHN-509"
+  },
+  {
+    "id": 1808,
+    "title": "SEMICONDUCTOR DEVICES AND APPLICATIONS",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PHN-513"
+  },
+  {
+    "id": 1809,
+    "title": "DISSERTATION STAGE-I",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PHN-600A"
+  },
+  {
+    "id": 1810,
+    "title": "Advanced Condensed Matter Physics",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PHN-601"
+  },
+  {
+    "id": 1811,
+    "title": "Advanced Laser Physics",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PHN-605"
+  },
+  {
+    "id": 1812,
+    "title": "Advanced Nuclear Physics",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PHN-607"
+  },
+  {
+    "id": 1813,
+    "title": "Advanced Characterization Techniques",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PHN-617"
+  },
+  {
+    "id": 1814,
+    "title": "A Primer in Quantum Field Theory",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PHN-619"
+  },
+  {
+    "id": 1815,
+    "title": "Quantum Theory of Solids",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PHN-627"
+  },
+  {
+    "id": 1816,
+    "title": "Semiconductor Photonics",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PHN-637"
+  },
+  {
+    "id": 1817,
+    "title": "Numerical Analysis & Computer Programming",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PHN-643"
+  },
+  {
+    "id": 1818,
+    "title": "SEMINAR",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PHN-699"
+  },
+  {
+    "id": 1819,
+    "title": "SEMINAR",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PHN-700"
+  },
+  {
+    "id": 1820,
+    "title": "DISSERTATION STAGE-I (TO BE CONTINUED NEXT SEMESTER)",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PHN-701A"
+  },
+  {
+    "id": 1821,
+    "title": "Computational Techniques and Programming",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PHN-707"
+  },
+  {
+    "id": 1822,
+    "title": "Semiconductor Device Physics",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PHN-709"
+  },
+  {
+    "id": 1823,
+    "title": "Laboratory Work in Photonics",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PHN-711"
+  },
+  {
+    "id": 1824,
+    "title": "Experimental Techniques",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PHN-788"
+  },
+  {
+    "id": 1825,
+    "title": "MATHEMATICAL AND COMPUTATIONAL TECHNIQUES",
+    "department": {
+      "id": 137,
+      "title": "Physics",
+      "abbreviation": "PHD",
+      "imageurl": "phd.png"
+    },
+    "code": "PHN-789"
+  },
+  {
+    "id": 1826,
+    "title": "System Design Techniques",
+    "department": {
+      "id": 138,
+      "title": "Water Resources Development and Management",
+      "abbreviation": "WRDMD",
+      "imageurl": "wrdmd.png"
+    },
+    "code": "WRN-501"
+  },
+  {
+    "id": 1827,
+    "title": "Design of Water Resources Structures",
+    "department": {
+      "id": 138,
+      "title": "Water Resources Development and Management",
+      "abbreviation": "WRDMD",
+      "imageurl": "wrdmd.png"
+    },
+    "code": "WRN-502"
+  },
+  {
+    "id": 1828,
+    "title": "Water Resources Planning and Management",
+    "department": {
+      "id": 138,
+      "title": "Water Resources Development and Management",
+      "abbreviation": "WRDMD",
+      "imageurl": "wrdmd.png"
+    },
+    "code": "WRN-503"
+  },
+  {
+    "id": 1829,
+    "title": "Applied Hydrology",
+    "department": {
+      "id": 138,
+      "title": "Water Resources Development and Management",
+      "abbreviation": "WRDMD",
+      "imageurl": "wrdmd.png"
+    },
+    "code": "WRN-504"
+  },
+  {
+    "id": 1830,
+    "title": "Hydro Generating Equipment",
+    "department": {
+      "id": 138,
+      "title": "Water Resources Development and Management",
+      "abbreviation": "WRDMD",
+      "imageurl": "wrdmd.png"
+    },
+    "code": "WRN-531"
+  },
+  {
+    "id": 1831,
+    "title": "Hydropower System Planning",
+    "department": {
+      "id": 138,
+      "title": "Water Resources Development and Management",
+      "abbreviation": "WRDMD",
+      "imageurl": "wrdmd.png"
+    },
+    "code": "WRN-532"
+  },
+  {
+    "id": 1832,
+    "title": "Power System Protection Application",
+    "department": {
+      "id": 138,
+      "title": "Water Resources Development and Management",
+      "abbreviation": "WRDMD",
+      "imageurl": "wrdmd.png"
+    },
+    "code": "WRN-533"
+  },
+  {
+    "id": 1833,
+    "title": "Design of Hydro Mechanical Equipment",
+    "department": {
+      "id": 138,
+      "title": "Water Resources Development and Management",
+      "abbreviation": "WRDMD",
+      "imageurl": "wrdmd.png"
+    },
+    "code": "WRN-551"
+  },
+  {
+    "id": 1834,
+    "title": "Construction Planning and Management",
+    "department": {
+      "id": 138,
+      "title": "Water Resources Development and Management",
+      "abbreviation": "WRDMD",
+      "imageurl": "wrdmd.png"
+    },
+    "code": "WRN-552"
+  },
+  {
+    "id": 1835,
+    "title": "Design of Irrigation Structures and Drainage Works",
+    "department": {
+      "id": 138,
+      "title": "Water Resources Development and Management",
+      "abbreviation": "WRDMD",
+      "imageurl": "wrdmd.png"
+    },
+    "code": "WRN-571"
+  },
+  {
+    "id": 1836,
+    "title": "Principles and Practices of Irrigation",
+    "department": {
+      "id": 138,
+      "title": "Water Resources Development and Management",
+      "abbreviation": "WRDMD",
+      "imageurl": "wrdmd.png"
+    },
+    "code": "WRN-573"
+  },
+  {
+    "id": 1837,
+    "title": "On Farm Development",
+    "department": {
+      "id": 138,
+      "title": "Water Resources Development and Management",
+      "abbreviation": "WRDMD",
+      "imageurl": "wrdmd.png"
+    },
+    "code": "WRN-575"
+  },
+  {
+    "id": 1838,
+    "title": "SEMINAR",
+    "department": {
+      "id": 138,
+      "title": "Water Resources Development and Management",
+      "abbreviation": "WRDMD",
+      "imageurl": "wrdmd.png"
+    },
+    "code": "WRN-700"
+  },
+  {
+    "id": 1839,
+    "title": "DISSERTATION STAGE-I (TO BE CONTINUED NEXT SEMESTER)",
+    "department": {
+      "id": 138,
+      "title": "Water Resources Development and Management",
+      "abbreviation": "WRDMD",
+      "imageurl": "wrdmd.png"
+    },
+    "code": "WRN-701A"
+  }
+]

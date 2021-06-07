@@ -1,0 +1,142 @@
+{
+    "department": [
+        {
+            "id": 117,
+            "title": "Hydro and Renewable Energy",
+            "abbreviation": "HRED",
+            "imageurl": "hred.png"
+        },
+        {
+            "id": 118,
+            "title": "Applied Science and Engineering",
+            "abbreviation": "ASED",
+            "imageurl": "ased.png"
+        },
+        {
+            "id": 119,
+            "title": "Architecture and Planning",
+            "abbreviation": "ARCD",
+            "imageurl": "arcd.png"
+        },
+        {
+            "id": 120,
+            "title": "Biotechnology",
+            "abbreviation": "BTD",
+            "imageurl": "btd.png"
+        },
+        {
+            "id": 121,
+            "title": "Chemical Engineering",
+            "abbreviation": "CHED",
+            "imageurl": "ched.png"
+        },
+        {
+            "id": 122,
+            "title": "Chemistry",
+            "abbreviation": "CYD",
+            "imageurl": "cyd.png"
+        },
+        {
+            "id": 123,
+            "title": "Civil Engineering",
+            "abbreviation": "CED",
+            "imageurl": "ced.png"
+        },
+        {
+            "id": 124,
+            "title": "Computer Science and Engineering",
+            "abbreviation": "CSED",
+            "imageurl": "csed.png"
+        },
+        {
+            "id": 125,
+            "title": "Earthquake",
+            "abbreviation": "EQD",
+            "imageurl": "eqd.png"
+        },
+        {
+            "id": 126,
+            "title": "Earth Sciences",
+            "abbreviation": "ESD",
+            "imageurl": "esd.png"
+        },
+        {
+            "id": 127,
+            "title": "Electrical Engineering",
+            "abbreviation": "EED",
+            "imageurl": "eed.png"
+        },
+        {
+            "id": 128,
+            "title": "Electronics and Communication Engineering",
+            "abbreviation": "ECED",
+            "imageurl": "eced.png"
+        },
+        {
+            "id": 129,
+            "title": "Humanities and Social Sciences",
+            "abbreviation": "HSD",
+            "imageurl": "hsd.png"
+        },
+        {
+            "id": 130,
+            "title": "Hydrology",
+            "abbreviation": "HYD",
+            "imageurl": "hyd.png"
+        },
+        {
+            "id": 131,
+            "title": "Management Studies",
+            "abbreviation": "MSD",
+            "imageurl": "msd.png"
+        },
+        {
+            "id": 132,
+            "title": "Mathematics",
+            "abbreviation": "MAD",
+            "imageurl": "mad.png"
+        },
+        {
+            "id": 133,
+            "title": "Mechanical and Industrial Engineering",
+            "abbreviation": "MIED",
+            "imageurl": "mied.png"
+        },
+        {
+            "id": 134,
+            "title": "Metallurgical and Materials Engineering",
+            "abbreviation": "MMED",
+            "imageurl": "mmed.png"
+        },
+        {
+            "id": 135,
+            "title": "Paper Technology",
+            "abbreviation": "PTD",
+            "imageurl": "ptd.png"
+        },
+        {
+            "id": 136,
+            "title": "Polymer and Process Engineering",
+            "abbreviation": "PPED",
+            "imageurl": "pped.png"
+        },
+        {
+            "id": 137,
+            "title": "Physics",
+            "abbreviation": "PHD",
+            "imageurl": "phd.png"
+        },
+        {
+            "id": 138,
+            "title": "Water Resources Development and Management",
+            "abbreviation": "WRDMD",
+            "imageurl": "wrdmd.png"
+        },
+        {
+            "id": 139,
+            "title": "Demo",
+            "abbreviation": "DDED",
+            "imageurl": "dded.png"
+        }
+    ]
+}
