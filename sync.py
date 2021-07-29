@@ -1,6 +1,7 @@
 import psycopg2
 import json
 from init import driveinit
+from tabulate import tabulate
 import concurrent.futures
 import datetime
 
@@ -11,7 +12,6 @@ filesSynced = 0
 
 
 try:
-
     connection = psycopg2.connect(database="studyportal", 
                             user = "studyportal", 
                             password = "studyportal", 
@@ -29,7 +29,7 @@ except (Exception, psycopg2.Error) as error1:
 def listFiles(service, folderID):
     results = service.files().list(
         q="'" + folderID + "' in parents and mimeType != 'application/vnd.google-apps.folder' ",
-        fields="nextPageToken, files(id, name, size, mimeType)",
+        fields="nextPageToken, files(id, name, size)",
     ).execute()
     return results.get('files', [])
 
@@ -87,10 +87,8 @@ def printContents():
             '''
         cursor.execute(qry)
         records = cursor.fetchall()
-
-        for row in records:
-            print (row[0],"\t",row[1],"\t",row[2],"\t",row[3],"\t",row[4],"\t",row[5],"\t",row[6],"\t",row[7],"\t",row[8],"\t",row[9])
-
+        print("UPDATED DATABASE:")
+        print (tabulate(records, headers=['id','title','driveid','downloads','size','date_modified','fileext','filetype','finalized','course_id']))
     except (Exception, psycopg2.Error) as error:
         print("Failed to print", error)
     
@@ -106,19 +104,19 @@ def syncAction(file):
         filesSynced = filesSynced + 1
         
             
-def courseScan(course, departments, depts):
-    service = driveinit()
+def courseScan(course, departments, depts, service):
     for folder in departments[depts][course]:
         if course != 'id':
             if folder != 'id':
                 pickFolder = departments[depts][course][folder]
+                if folder != None and '_review' in folder:
+                    continue
                 filesInDriveFolder = listFiles(service, pickFolder)
                 if(len(filesInDriveFolder) != 0):
                     for item in filesInDriveFolder:
-                        string = item['mimeType']
-                        file_type, ext = string.split('/')
+                        file_name, ext = item['name'].split('.')
                         file_data = {
-                            'title' : item['name'],
+                            'title' : file_name,
                             'driveid': item['id'],
                             'size': str(round((float(item['size'])/(10**6)), 2))+" MB",
                             'dateModified': date_today,
@@ -141,16 +139,13 @@ def fileCheck():
         if(depts == 'id'):
             continue
         with concurrent.futures.ThreadPoolExecutor() as executor:
-            results = [executor.submit(
-                courseScan, course, departments, depts) for course in departments[depts]]
+            for course in departments[depts]:
+                executor.submit(courseScan, course, departments, depts, driveinit()) 
        
 
 
 if __name__ == '__main__':
     fileCheck()
-    # print('\nresources_file -> Table content: \n')
-    # printContents()
-
     print('''
     ______ _ _          _____                      _____                       _      _          _   _   _ 
     |  ___(_) |        /  ___|                    /  __ \                     | |    | |        | | | | | |
@@ -161,6 +156,6 @@ if __name__ == '__main__':
                                __/ |                                    | |                                
                               |___/                                     |_|                                
     ''')
-
+    printContents()
     print('Number of new files added to database:', filesSynced)
 
