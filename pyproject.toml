@@ -1,0 +1,29 @@
+[tool.poetry]
+name = "studyportal"
+version = "0.1.0"
+description = "Utility suite for Studyportal"
+authors = ["Ayan Choudhary <ayanchoudhary1025@gmail.com>"]
+license = "MIT"
+
+packages = [
+    { include = "studyportal" },
+]
+
+[tool.poetry.dependencies]
+python = "^3.6"
+click = "^8.0.1"
+google-api-python-client = "^2.19.1"
+google-auth-httplib2 = "^0.1.0"
+google-auth-oauthlib = "^0.4.6"
+tabulate = "^0.8.9"
+psycopg2-binary = "^2.9.1"
+
+[tool.poetry.dev-dependencies]
+pytest = "^6.1.2"
+
+[tool.poetry.scripts]
+studyportal = "studyportal.cmd:cli"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
